@@ -1,0 +1,2 @@
+This project is a way for me to formally document my attempt at re-entering the data science fraternity by having another go at the basics from scratch and following a more hands-on approach by working on real-life datasets while pursuing my masters in DS from KU Leuven.
+While also attempting a more theoretical look into DS, I will also be following along with mini-projects and hackathons so I can broaden my understanding of the subject.
