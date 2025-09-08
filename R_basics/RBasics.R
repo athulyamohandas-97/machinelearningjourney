@@ -510,3 +510,76 @@ sqrt(x)
 
 y <- 1:10
 x*y
+
+
+#EXERCISE 
+x <- c(1,2,-3,4)
+
+if(all(x>0)){
+  print("All Postives")
+} else{
+  print("Not all positives")
+}
+
+ifelse(nchar(murders$state)>8,new_names <- murders$abb,NA)
+
+sum_n <- function(x){
+  n <- 1:x
+  sum(n)
+  
+}
+
+a <- sum_n(5000)
+a
+
+altman_plot <- function(x,y){
+  diff <- x-y
+  sum  <- x+y
+  plot(sum, diff)
+  
+}
+
+a <- altman_plot(30,10)
+a
+
+x <- 3
+my_func <- function(y){
+  x <- 5
+  y+5
+}
+x
+
+
+compute_s_n <- function(x){
+  n <- 1:x
+  n <- n*n
+  sum(n)
+  
+}
+
+a <- compute_s_n(10)
+a
+
+s_n <- vector("numeric", 25)
+for(n in 1:25){
+  s_n[n] <- compute_s_n(n)
+}
+s_n
+
+s_n2 =sapply(25,compute_s_n)
+s_n2
+
+s<-1:25
+plot(s,s_n)
+
+
+compute_s_n2 <- function(x)
+  {
+  a <- (x*(x+1)*(2*x+1))/6
+  a
+ }
+b <- compute_s_n2(25)
+b
+
+
+
