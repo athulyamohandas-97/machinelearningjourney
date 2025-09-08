@@ -472,3 +472,41 @@ sum(is.na(no_nas))
 z <- c(TRUE, TRUE, FALSE)
 any(z)
 all(z)
+
+
+#FUNCTIONS
+avg <- function(x){
+  s <- sum(x)
+  n <- length(x)
+  s/n
+}
+
+avg(1:10)
+
+search()
+
+for(i in 1:5){
+  print(i)
+}
+
+compute_s_n <- function(n){
+  x <- 1:n
+  sum(x)
+}
+
+m <- 25
+s_n <- vector(length = m) # create an empty vector
+for(n in 1:m){
+  s_n[n] <- compute_s_n(n)
+}
+
+s_n
+
+n <- 1:m
+plot(n, s_n)
+
+x <- 1:10
+sqrt(x)
+
+y <- 1:10
+x*y
