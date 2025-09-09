@@ -582,4 +582,22 @@ b <- compute_s_n2(25)
 b
 
 
+#TIDYVERSE
+
+library(tidyverse)
+dplyr::filter() 
+dplyr::lag()
+
+data(co2)
+co2
+
+data(ChickWeight)
+ChickWeight
+
+library(dslabs)
+data("murders")
+murders <- mutate(murders, rate = total / population * 100000)
+
+murders
+
 
