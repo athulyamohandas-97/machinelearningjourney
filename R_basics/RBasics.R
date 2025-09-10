@@ -600,4 +600,6 @@ murders <- mutate(murders, rate = total / population * 100000)
 
 murders
 
+new_table <- select(murders, state, region, rate)
+filter(new_table, rate <= 0.71)
 
