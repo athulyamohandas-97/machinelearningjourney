@@ -1,0 +1,104 @@
+import os
+import re
+import pytest
+
+# --- CONFIGURATION ---
+
+# Ignore directories known to be dev/test only
+IGNORE_DIRS = {"tests", "examples", "docs", "scripts", "dev"}
+
+# Allowed non-secure dev URLs
+SAFE_HTTP_PATTERNS = [
+    re.compile(r"http://localhost(:\d+)?"),
+    re.compile(r"http://127\.0\.0\.1(:\d+)?"),
+    re.compile(r"http://0\.0\.0\.0(:\d+)?"),
+]
+
+# File types to scan
+TARGET_EXTENSIONS = (".py", ".yml", ".yaml", ".json", ".toml")
+
+# Regex for http:// URLs
+HTTP_PATTERN = re.compile(r"http://[a-zA-Z0-9\.\-_:\/]+")
+
+# Regex for requests calls disabling TLS verification
+VERIFY_FALSE_PATTERN = re.compile(r"verify\s*=\s*False", re.IGNORECASE)
+
+# --- HELPERS ---
+
+def is_safe_dev_url(url: str) -> bool:
+    """Return True if URL is a known safe local/development endpoint."""
+    return any(p.fullmatch(url.strip()) for p in SAFE_HTTP_PATTERNS)
+
+
+def is_prod_relevant_file(file_path: str) -> bool:
+    """
+    Heuristic to decide whether a file looks like production code.
+    We include code related to runtime execution, connectors, API, etc.
+    """
+    path = file_path.lower()
+    prod_keywords = ["core", "server", "channels", "endpoints", "telemetry", "api", "runtime"]
+    dev_keywords = ["test", "mock", "example", "sample", "dev"]
+
+    return any(k in path for k in prod_keywords) and not any(k in path for k in dev_keywords)
+
+
+def find_insecure_usage(root_path: str):
+    """
+    Scan project for insecure HTTP URLs or verify=False calls.
+    Return a list of (file, issue_type, match_text).
+    """
+    issues = []
+
+    for subdir, _, files in os.walk(root_path):
+        # Skip known dev/test directories
+        if any(skip in subdir.replace("\\", "/").split("/") for skip in IGNORE_DIRS):
+            continue
+
+        for file in files:
+            if not file.endswith(TARGET_EXTENSIONS):
+                continue
+
+            file_path = os.path.join(subdir, file)
+            try:
+                with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
+                    content = f.read()
+            except Exception:
+                continue
+
+            # Look for http:// URLs
+            for match in HTTP_PATTERN.findall(content):
+                if not is_safe_dev_url(match):
+                    issues.append((file_path, "INSECURE_HTTP", match))
+
+            # Look for verify=False
+            for match in VERIFY_FALSE_PATTERN.findall(content):
+                issues.append((file_path, "TLS_VERIFY_DISABLED", match))
+
+    return issues
+
+
+# --- MAIN TEST ---
+
+@pytest.mark.privacy
+def test_secure_connections_in_prod_code():
+    """
+    Ensure production-relevant code does not use:
+      - Unencrypted HTTP URLs
+      - TLS certificate verification disabled (verify=False)
+    Dev/test files and localhost URLs are ignored.
+    """
+    root_dir = os.path.abspath(".")
+    all_issues = find_insecure_usage(root_dir)
+
+    # Filter to production-relevant files only
+    prod_issues = [
+        (path, issue_type, text)
+        for path, issue_type, text in all_issues
+        if is_prod_relevant_file(path)
+    ]
+
+    assert not prod_issues, (
+        "❌ Insecure network usage detected in production code:\n\n" +
+        "\n".join(f"{path}: {issue_type} → {text}" for path, issue_type, text in prod_issues) +
+        "\n\nPlease ensure all production API calls use HTTPS and verify SSL certificates."
+    )
