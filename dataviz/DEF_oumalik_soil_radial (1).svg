@@ -1,0 +1,4298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="880"
+   height="780"
+   font-family="system-ui, sans-serif"
+   style="background:white"
+   version="1.1"
+   id="svg445"
+   sodipodi:docname="oumalik_soil_radial.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs445" />
+  <sodipodi:namedview
+     id="namedview445"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4730769"
+     inkscape:cx="260"
+     inkscape:cy="125.92689"
+     inkscape:window-width="2304"
+     inkscape:window-height="1430"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg445" />
+  <path
+     d="M 440.00 310.00 L 440.00 75.00 A 305.00 305.00 0 0 1 515.82 675.42 L 457.40 447.80 A 70.00 70.00 0 0 0 440.00 310.00 Z"
+     fill="#f1f6f1"
+     id="path1" />
+  <path
+     d="M 453.99 448.59 L 500.97 678.84 A 305.00 305.00 0 0 1 239.99 610.26 L 394.10 432.85 A 70.00 70.00 0 0 0 453.99 448.59 Z"
+     fill="#eff2f6"
+     id="path2" />
+  <path
+     d="M 391.51 430.49 L 228.73 599.98 A 305.00 305.00 0 0 1 424.76 75.38 L 436.50 310.09 A 70.00 70.00 0 0 0 391.51 430.49 Z"
+     fill="#f7efef"
+     id="path3" />
+  <circle
+     cx="440.0"
+     cy="380.0"
+     r="140.50"
+     fill="none"
+     stroke="#c0c0c0"
+     stroke-width="0.4"
+     stroke-dasharray="2,3"
+     id="circle3" />
+  <text
+     x="443.0"
+     y="249.5"
+     font-size="7"
+     fill="#aaa"
+     id="text3">3</text>
+  <circle
+     cx="440.0"
+     cy="380.0"
+     r="211.00"
+     fill="none"
+     stroke="#c0c0c0"
+     stroke-width="0.4"
+     stroke-dasharray="2,3"
+     id="circle4" />
+  <text
+     x="443.0"
+     y="179.0"
+     font-size="7"
+     fill="#aaa"
+     id="text4">6</text>
+  <circle
+     cx="440.0"
+     cy="380.0"
+     r="281.50"
+     fill="none"
+     stroke="#c0c0c0"
+     stroke-width="0.4"
+     stroke-dasharray="2,3"
+     id="circle5" />
+  <text
+     x="443.0"
+     y="108.5"
+     font-size="7"
+     fill="#aaa"
+     id="text5">9</text>
+  <circle
+     cx="440.0"
+     cy="380.0"
+     r="305.00"
+     fill="none"
+     stroke="#c0c0c0"
+     stroke-width="0.8"
+     id="circle6" />
+  <text
+     x="443.0"
+     y="85.0"
+     font-size="7"
+     fill="#aaa"
+     id="text6">10</text>
+  <circle
+     cx="440.0"
+     cy="380.0"
+     r="70"
+     fill="white"
+     stroke="#bbb"
+     stroke-width="1"
+     id="circle7" />
+  <text
+     x="440.0"
+     y="376.0"
+     font-size="10"
+     fill="#666"
+     text-anchor="middle"
+     id="text7">disturbance</text>
+  <text
+     x="440.0"
+     y="389.0"
+     font-size="9"
+     fill="#999"
+     text-anchor="middle"
+     id="text8">score 1-10</text>
+  <text
+     x="772.4"
+     y="338.0"
+     font-size="10"
+     fill="#333"
+     font-weight="600"
+     text-anchor="middle"
+     dominant-baseline="central"
+     id="text9">Undisturbed</text>
+  <text
+     x="354.9"
+     y="704.0"
+     font-size="10"
+     fill="#333"
+     font-weight="600"
+     text-anchor="middle"
+     dominant-baseline="central"
+     id="text10">Naturally disturbed</text>
+  <text
+     x="126.2"
+     y="256.7"
+     font-size="10"
+     fill="#333"
+     font-weight="600"
+     text-anchor="middle"
+     dominant-baseline="central"
+     id="text11">Anthropogenically</text>
+  <text
+     x="126.2"
+     y="268.7"
+     font-size="10"
+     fill="#333"
+     font-weight="600"
+     text-anchor="middle"
+     dominant-baseline="central"
+     id="text12">disturbed</text>
+  <g
+     class="bar"
+     id="g16">
+    <title
+       id="title12">Plot 229 – Undisturbed
+Disturbance score 1/10  intensity 1/7
+Organic matter 13.5%  pH 5.79  N 19.1 ppm  Ca 2970 ppm</title>
+    <path
+       d="M 440.35 310.00 L 440.37 304.60 A 75.40 75.40 0 0 1 444.94 304.76 L 444.59 310.15 A 70.00 70.00 0 0 0 440.35 310.00 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path12" />
+    <path
+       d="M 440.37 304.60 L 440.39 300.69 A 79.31 79.31 0 0 1 445.20 300.86 L 444.94 304.76 A 75.40 75.40 0 0 0 440.37 304.60 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path13" />
+    <path
+       d="M 440.39 300.69 L 440.42 294.71 A 85.30 85.30 0 0 1 445.59 294.89 L 445.20 300.86 A 79.31 79.31 0 0 0 440.39 300.69 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path14" />
+    <path
+       d="M 440.42 294.71 L 440.45 289.37 A 90.63 90.63 0 0 1 445.94 289.57 L 445.59 294.89 A 85.30 85.30 0 0 0 440.42 294.71 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path15" />
+    <path
+       d="M 440.45 289.37 L 440.46 286.50 A 93.50 93.50 0 0 1 446.13 286.70 L 445.94 289.57 A 90.63 90.63 0 0 0 440.45 289.37 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path16" />
+  </g>
+  <text
+     x="443.5"
+     y="279.6"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(272.0 443.5 279.6)"
+     id="text16">229</text>
+  <g
+     class="bar"
+     id="g21">
+    <title
+       id="title16">Plot 269 – Undisturbed
+Disturbance score 1/10  intensity 1/7
+Organic matter 6.5%  pH 6.72  N 15.3 ppm  Ca 3650 ppm</title>
+    <path
+       d="M 445.28 310.20 L 445.63 305.46 A 74.76 74.76 0 0 1 450.14 305.93 L 449.49 310.65 A 70.00 70.00 0 0 0 445.28 310.20 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path17" />
+    <path
+       d="M 445.63 305.46 L 445.95 301.22 A 79.00 79.00 0 0 1 450.72 301.73 L 450.14 305.93 A 74.76 74.76 0 0 0 445.63 305.46 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path18" />
+    <path
+       d="M 445.95 301.22 L 446.56 293.25 A 87.00 87.00 0 0 1 451.80 293.81 L 450.72 301.73 A 79.00 79.00 0 0 0 445.95 301.22 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path19" />
+    <path
+       d="M 446.56 293.25 L 446.88 288.98 A 91.28 91.28 0 0 1 452.38 289.56 L 451.80 293.81 A 87.00 87.00 0 0 0 446.56 293.25 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path20" />
+    <path
+       d="M 446.88 288.98 L 447.05 286.77 A 93.50 93.50 0 0 1 452.68 287.36 L 452.38 289.56 A 91.28 91.28 0 0 0 446.88 288.98 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path21" />
+  </g>
+  <text
+     x="450.6"
+     y="280.1"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(276.1 450.6 280.1)"
+     id="text21">269</text>
+  <g
+     class="bar"
+     id="g26">
+    <title
+       id="title21">Plot 24 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 61.3%  pH 6.35  N 67.6 ppm  Ca 12820 ppm</title>
+    <path
+       d="M 450.18 310.74 L 452.79 292.97 A 87.97 87.97 0 0 1 458.04 293.90 L 454.36 311.49 A 70.00 70.00 0 0 0 450.18 310.74 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path22" />
+    <path
+       d="M 452.79 292.97 L 453.49 288.21 A 92.77 92.77 0 0 1 459.03 289.20 L 458.04 293.90 A 87.97 87.97 0 0 0 452.79 292.97 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path23" />
+    <path
+       d="M 453.49 288.21 L 455.62 273.74 A 107.41 107.41 0 0 1 462.03 274.88 L 459.03 289.20 A 92.77 92.77 0 0 0 453.49 288.21 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path24" />
+    <path
+       d="M 455.62 273.74 L 456.54 267.46 A 113.75 113.75 0 0 1 463.33 268.67 L 462.03 274.88 A 107.41 107.41 0 0 0 455.62 273.74 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path25" />
+    <path
+       d="M 456.54 267.46 L 457.01 264.24 A 117.00 117.00 0 0 1 464.00 265.49 L 463.33 268.67 A 113.75 113.75 0 0 0 456.54 267.46 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path26" />
+  </g>
+  <text
+     x="461.7"
+     y="257.9"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(280.1 461.7 257.9)"
+     id="text26">24</text>
+  <g
+     class="bar"
+     id="g31">
+    <title
+       id="title26">Plot 44 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 84.1%  pH 5.68  N 211.5 ppm  Ca 6450 ppm</title>
+    <path
+       d="M 455.03 311.63 L 458.75 294.71 A 87.33 87.33 0 0 1 463.89 296.00 L 459.15 312.67 A 70.00 70.00 0 0 0 455.03 311.63 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path27" />
+    <path
+       d="M 458.75 294.71 L 460.80 285.40 A 96.86 96.86 0 0 1 466.49 286.84 L 463.89 296.00 A 87.33 87.33 0 0 0 458.75 294.71 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path28" />
+    <path
+       d="M 460.80 285.40 L 462.88 275.92 A 106.56 106.56 0 0 1 469.15 277.50 L 466.49 286.84 A 96.86 96.86 0 0 0 460.80 285.40 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path29" />
+    <path
+       d="M 462.88 275.92 L 464.56 268.31 A 114.36 114.36 0 0 1 471.28 270.00 L 469.15 277.50 A 106.56 106.56 0 0 0 462.88 275.92 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path30" />
+    <path
+       d="M 464.56 268.31 L 465.12 265.73 A 117.00 117.00 0 0 1 472.00 267.46 L 471.28 270.00 A 114.36 114.36 0 0 0 464.56 268.31 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path31" />
+  </g>
+  <text
+     x="470.3"
+     y="259.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(284.1 470.3 259.8)"
+     id="text31">44</text>
+  <g
+     class="bar"
+     id="g36">
+    <title
+       id="title31">Plot 73 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 9.7%  pH 7.74  N 29.1 ppm  Ca 5380 ppm</title>
+    <path
+       d="M 459.81 312.86 L 461.04 308.69 A 74.35 74.35 0 0 1 465.32 310.09 L 463.84 314.19 A 70.00 70.00 0 0 0 459.81 312.86 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path32" />
+    <path
+       d="M 461.04 308.69 L 463.01 302.00 A 81.32 81.32 0 0 1 467.70 303.54 L 465.32 310.09 A 74.35 74.35 0 0 0 461.04 308.69 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path33" />
+    <path
+       d="M 463.01 302.00 L 467.21 287.79 A 96.14 96.14 0 0 1 472.74 289.61 L 467.70 303.54 A 81.32 81.32 0 0 0 463.01 302.00 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path34" />
+    <path
+       d="M 467.21 287.79 L 469.97 278.43 A 105.90 105.90 0 0 1 476.07 280.43 L 472.74 289.61 A 96.14 96.14 0 0 0 467.21 287.79 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path35" />
+    <path
+       d="M 469.97 278.43 L 473.11 267.78 A 117.00 117.00 0 0 1 479.85 270.00 L 476.07 280.43 A 105.90 105.90 0 0 0 469.97 278.43 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path36" />
+  </g>
+  <text
+     x="478.7"
+     y="262.2"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(288.2 478.7 262.2)"
+     id="text36">73</text>
+  <g
+     class="bar"
+     id="g41">
+    <title
+       id="title36">Plot 76 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 9.7%  pH 5.62  N 23.2 ppm  Ca 2060 ppm</title>
+    <path
+       d="M 464.49 314.42 L 468.19 304.52 A 80.57 80.57 0 0 1 472.71 306.37 L 468.42 316.03 A 70.00 70.00 0 0 0 464.49 314.42 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path37" />
+    <path
+       d="M 468.19 304.52 L 471.66 295.23 A 90.49 90.49 0 0 1 476.74 297.30 L 472.71 306.37 A 80.57 80.57 0 0 0 468.19 304.52 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path38" />
+    <path
+       d="M 471.66 295.23 L 475.76 284.25 A 102.21 102.21 0 0 1 481.49 286.59 L 476.74 297.30 A 90.49 90.49 0 0 0 471.66 295.23 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path39" />
+    <path
+       d="M 475.76 284.25 L 480.15 272.48 A 114.77 114.77 0 0 1 486.60 275.11 L 481.49 286.59 A 102.21 102.21 0 0 0 475.76 284.25 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path40" />
+    <path
+       d="M 480.15 272.48 L 480.93 270.39 A 117.00 117.00 0 0 1 487.50 273.08 L 486.60 275.11 A 114.77 114.77 0 0 0 480.15 272.48 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path41" />
+  </g>
+  <text
+     x="486.9"
+     y="265.2"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(292.2 486.9 265.2)"
+     id="text41">76</text>
+  <g
+     class="bar"
+     id="g45">
+    <title
+       id="title41">Plot 82 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 52.6%  pH 6.87  N 42.2 ppm  Ca 13260 ppm</title>
+    <path
+       d="M 469.05 316.31 L 478.21 296.22 A 92.08 92.08 0 0 1 483.22 298.69 L 472.85 318.19 A 70.00 70.00 0 0 0 469.05 316.31 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path42" />
+    <path
+       d="M 478.21 296.22 L 480.37 291.49 A 97.28 97.28 0 0 1 485.66 294.10 L 483.22 298.69 A 92.08 92.08 0 0 0 478.21 296.22 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path43" />
+    <path
+       d="M 480.37 291.49 L 488.06 274.63 A 115.82 115.82 0 0 1 494.36 277.73 L 485.66 294.10 A 97.28 97.28 0 0 0 480.37 291.49 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path44" />
+    <path
+       d="M 488.14 274.46 L 488.55 273.55 A 117.00 117.00 0 0 1 494.91 276.69 L 494.44 277.57 A 116.00 116.00 0 0 0 488.14 274.46 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path45" />
+  </g>
+  <text
+     x="494.9"
+     y="268.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(296.3 494.9 268.8)"
+     id="text45">82</text>
+  <g
+     class="bar"
+     id="g50">
+    <title
+       id="title45">Plot 87 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 12.5%  pH 7.62  N 14.5 ppm  Ca 4600 ppm</title>
+    <path
+       d="M 473.46 318.52 L 475.64 314.51 A 74.56 74.56 0 0 1 479.54 316.79 L 477.13 320.66 A 70.00 70.00 0 0 0 473.46 318.52 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path46" />
+    <path
+       d="M 475.64 314.51 L 479.13 308.11 A 81.85 81.85 0 0 1 483.41 310.61 L 479.54 316.79 A 74.56 74.56 0 0 0 475.64 314.51 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path47" />
+    <path
+       d="M 479.13 308.11 L 486.75 294.09 A 97.80 97.80 0 0 1 491.87 297.09 L 483.41 310.61 A 81.85 81.85 0 0 0 479.13 308.11 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path48" />
+    <path
+       d="M 486.75 294.09 L 490.59 287.05 A 105.83 105.83 0 0 1 496.13 290.28 L 491.87 297.09 A 97.80 97.80 0 0 0 486.75 294.09 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path49" />
+    <path
+       d="M 490.59 287.05 L 495.93 277.23 A 117.00 117.00 0 0 1 502.05 280.81 L 496.13 290.28 A 105.83 105.83 0 0 0 490.59 287.05 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path50" />
+  </g>
+  <text
+     x="502.5"
+     y="272.9"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(300.3 502.5 272.9)"
+     id="text50">87</text>
+  <g
+     class="bar"
+     id="g55">
+    <title
+       id="title50">Plot 154 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 74.2%  pH 4.70  N 185.5 ppm  Ca 5040 ppm</title>
+    <path
+       d="M 477.71 321.03 L 488.82 303.65 A 90.62 90.62 0 0 1 493.36 306.75 L 481.21 323.42 A 70.00 70.00 0 0 0 477.71 321.03 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path51" />
+    <path
+       d="M 488.82 303.65 L 495.08 293.87 A 102.24 102.24 0 0 1 500.19 297.36 L 493.36 306.75 A 90.62 90.62 0 0 0 488.82 303.65 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path52" />
+    <path
+       d="M 495.08 293.87 L 498.17 289.02 A 107.99 107.99 0 0 1 503.58 292.71 L 500.19 297.36 A 102.24 102.24 0 0 0 495.08 293.87 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path53" />
+    <path
+       d="M 498.17 289.02 L 501.20 284.29 A 113.61 113.61 0 0 1 506.89 288.17 L 503.58 292.71 A 107.99 107.99 0 0 0 498.17 289.02 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path54" />
+    <path
+       d="M 501.20 284.29 L 503.03 281.43 A 117.00 117.00 0 0 1 508.89 285.43 L 506.89 288.17 A 113.61 113.61 0 0 0 501.20 284.29 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path55" />
+  </g>
+  <text
+     x="509.9"
+     y="277.6"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(304.3 509.9 277.6)"
+     id="text55">154</text>
+  <g
+     class="bar"
+     id="g60">
+    <title
+       id="title55">Plot 155 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 5.1%  pH 5.39  N 20.2 ppm  Ca 1320 ppm</title>
+    <path
+       d="M 481.77 323.83 L 487.04 316.75 A 78.83 78.83 0 0 1 490.78 319.71 L 485.10 326.46 A 70.00 70.00 0 0 0 481.77 323.83 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path56" />
+    <path
+       d="M 487.04 316.75 L 493.15 308.52 A 89.07 89.07 0 0 1 497.38 311.88 L 490.78 319.71 A 78.83 78.83 0 0 0 487.04 316.75 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path57" />
+    <path
+       d="M 493.15 308.52 L 499.09 300.54 A 99.03 99.03 0 0 1 503.80 304.26 L 497.38 311.88 A 89.07 89.07 0 0 0 493.15 308.52 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path58" />
+    <path
+       d="M 499.09 300.54 L 507.84 288.76 A 113.70 113.70 0 0 1 513.25 293.04 L 503.80 304.26 A 99.03 99.03 0 0 0 499.09 300.54 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path59" />
+    <path
+       d="M 507.84 288.76 L 509.82 286.11 A 117.00 117.00 0 0 1 515.38 290.52 L 513.25 293.04 A 113.70 113.70 0 0 0 507.84 288.76 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path60" />
+  </g>
+  <text
+     x="517.0"
+     y="282.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(308.4 517.0 282.8)"
+     id="text60">155</text>
+  <g
+     class="bar"
+     id="g65">
+    <title
+       id="title60">Plot 156 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 61.4%  pH 6.05  N 70.8 ppm  Ca 8720 ppm</title>
+    <path
+       d="M 485.62 326.91 L 498.90 311.46 A 90.37 90.37 0 0 1 502.95 315.15 L 488.76 329.77 A 70.00 70.00 0 0 0 485.62 326.91 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path61" />
+    <path
+       d="M 498.90 311.46 L 502.64 307.10 A 96.12 96.12 0 0 1 506.95 311.03 L 502.95 315.15 A 90.37 90.37 0 0 0 498.90 311.46 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path62" />
+    <path
+       d="M 502.64 307.10 L 511.92 296.31 A 110.35 110.35 0 0 1 516.86 300.82 L 506.95 311.03 A 96.12 96.12 0 0 0 502.64 307.10 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path63" />
+    <path
+       d="M 511.92 296.31 L 515.04 292.68 A 115.13 115.13 0 0 1 520.19 297.39 L 516.86 300.82 A 110.35 110.35 0 0 0 511.92 296.31 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path64" />
+    <path
+       d="M 515.04 292.68 L 516.26 291.26 A 117.00 117.00 0 0 1 521.49 296.05 L 520.19 297.39 A 115.13 115.13 0 0 0 515.04 292.68 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path65" />
+  </g>
+  <text
+     x="523.6"
+     y="288.4"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(312.4 523.6 288.4)"
+     id="text65">156</text>
+  <g
+     class="bar"
+     id="g70">
+    <title
+       id="title65">Plot 157 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 67.5%  pH 5.38  N 50.2 ppm  Ca 6840 ppm</title>
+    <path
+       d="M 489.25 330.26 L 503.30 316.07 A 89.97 89.97 0 0 1 507.05 320.02 L 492.17 333.33 A 70.00 70.00 0 0 0 489.25 330.26 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path66" />
+    <path
+       d="M 503.30 316.07 L 507.00 312.32 A 95.24 95.24 0 0 1 510.98 316.51 L 507.05 320.02 A 89.97 89.97 0 0 0 503.30 316.07 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path67" />
+    <path
+       d="M 507.00 312.32 L 515.16 304.08 A 106.83 106.83 0 0 1 519.62 308.77 L 510.98 316.51 A 95.24 95.24 0 0 0 507.00 312.32 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path68" />
+    <path
+       d="M 515.16 304.08 L 520.86 298.33 A 114.93 114.93 0 0 1 525.66 303.38 L 519.62 308.77 A 106.83 106.83 0 0 0 515.16 304.08 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path69" />
+    <path
+       d="M 520.86 298.33 L 522.32 296.86 A 117.00 117.00 0 0 1 527.20 302.00 L 525.66 303.38 A 114.93 114.93 0 0 0 520.86 298.33 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path70" />
+  </g>
+  <text
+     x="529.9"
+     y="294.6"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(316.5 529.9 294.6)"
+     id="text70">157</text>
+  <g
+     class="bar"
+     id="g75">
+    <title
+       id="title70">Plot 159 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 4.3%  pH 7.25  N 10.8 ppm  Ca 2980 ppm</title>
+    <path
+       d="M 492.63 333.85 L 497.16 329.88 A 76.02 76.02 0 0 1 500.09 333.43 L 495.33 337.12 A 70.00 70.00 0 0 0 492.63 333.85 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path71" />
+    <path
+       d="M 497.16 329.88 L 503.54 324.28 A 84.51 84.51 0 0 1 506.80 328.23 L 500.09 333.43 A 76.02 76.02 0 0 0 497.16 329.88 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path72" />
+    <path
+       d="M 503.54 324.28 L 516.56 312.86 A 101.83 101.83 0 0 1 520.49 317.63 L 506.80 328.23 A 84.51 84.51 0 0 0 503.54 324.28 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path73" />
+    <path
+       d="M 516.56 312.86 L 523.09 307.14 A 110.52 110.52 0 0 1 527.36 312.30 L 520.49 317.63 A 101.83 101.83 0 0 0 516.56 312.86 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path74" />
+    <path
+       d="M 523.09 307.14 L 527.97 302.86 A 117.00 117.00 0 0 1 532.48 308.33 L 527.36 312.30 A 110.52 110.52 0 0 0 523.09 307.14 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path75" />
+  </g>
+  <text
+     x="535.7"
+     y="301.1"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(320.5 535.7 301.1)"
+     id="text75">159</text>
+  <g
+     class="bar"
+     id="g80">
+    <title
+       id="title75">Plot 163 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 65.6%  pH 4.00  N 64.3 ppm  Ca 2250 ppm</title>
+    <path
+       d="M 495.75 337.67 L 510.88 326.18 A 88.99 88.99 0 0 1 514.01 330.58 L 498.21 341.13 A 70.00 70.00 0 0 0 495.75 337.67 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path76" />
+    <path
+       d="M 510.88 326.18 L 514.81 323.20 A 93.93 93.93 0 0 1 518.12 327.83 L 514.01 330.58 A 88.99 88.99 0 0 0 510.88 326.18 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path77" />
+    <path
+       d="M 514.81 323.20 L 519.16 319.90 A 99.39 99.39 0 0 1 522.66 324.80 L 518.12 327.83 A 93.93 93.93 0 0 0 514.81 323.20 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path78" />
+    <path
+       d="M 519.16 319.90 L 529.01 312.42 A 111.76 111.76 0 0 1 532.94 317.94 L 522.66 324.80 A 99.39 99.39 0 0 0 519.16 319.90 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path79" />
+    <path
+       d="M 529.01 312.42 L 533.18 309.25 A 117.00 117.00 0 0 1 537.30 315.02 L 532.94 317.94 A 111.76 111.76 0 0 0 529.01 312.42 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path80" />
+  </g>
+  <text
+     x="541.0"
+     y="308.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(324.5 541.0 308.0)"
+     id="text80">163</text>
+  <g
+     class="bar"
+     id="g85">
+    <title
+       id="title80">Plot 167 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 67.3%  pH 4.14  N 42.5 ppm  Ca 3290 ppm</title>
+    <path
+       d="M 498.59 341.70 L 519.14 328.27 A 94.55 94.55 0 0 1 522.13 333.16 L 500.81 345.32 A 70.00 70.00 0 0 0 498.59 341.70 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path81" />
+    <path
+       d="M 519.14 328.27 L 522.54 326.05 A 98.61 98.61 0 0 1 525.66 331.15 L 522.13 333.16 A 94.55 94.55 0 0 0 519.14 328.27 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path82" />
+    <path
+       d="M 522.54 326.05 L 525.51 324.11 A 102.16 102.16 0 0 1 528.74 329.39 L 525.66 331.15 A 98.61 98.61 0 0 0 522.54 326.05 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path83" />
+    <path
+       d="M 525.51 324.11 L 531.73 320.05 A 109.58 109.58 0 0 1 535.19 325.71 L 528.74 329.39 A 102.16 102.16 0 0 0 525.51 324.11 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path84" />
+    <path
+       d="M 531.73 320.05 L 537.94 315.99 A 117.00 117.00 0 0 1 541.63 322.04 L 535.19 325.71 A 109.58 109.58 0 0 0 531.73 320.05 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path85" />
+  </g>
+  <text
+     x="545.8"
+     y="315.3"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(328.6 545.8 315.3)"
+     id="text85">167</text>
+  <g
+     class="bar"
+     id="g90">
+    <title
+       id="title85">Plot 168 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 4.6%  pH 6.79  N 15.5 ppm  Ca 2430 ppm</title>
+    <path
+       d="M 501.15 345.92 L 508.54 341.80 A 78.47 78.47 0 0 1 510.73 346.02 L 503.10 349.69 A 70.00 70.00 0 0 0 501.15 345.92 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path86" />
+    <path
+       d="M 508.54 341.80 L 516.80 337.20 A 87.92 87.92 0 0 1 519.25 341.93 L 510.73 346.02 A 78.47 78.47 0 0 0 508.54 341.80 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path87" />
+    <path
+       d="M 516.80 337.20 L 530.83 329.38 A 103.99 103.99 0 0 1 533.73 334.98 L 519.25 341.93 A 87.92 87.92 0 0 0 516.80 337.20 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path88" />
+    <path
+       d="M 530.83 329.38 L 539.49 324.55 A 113.90 113.90 0 0 1 542.67 330.68 L 533.73 334.98 A 103.99 103.99 0 0 0 530.83 329.38 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path89" />
+    <path
+       d="M 539.49 324.55 L 542.20 323.05 A 117.00 117.00 0 0 1 545.46 329.34 L 542.67 330.68 A 113.90 113.90 0 0 0 539.49 324.55 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path90" />
+  </g>
+  <text
+     x="550.1"
+     y="322.9"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(332.6 550.1 322.9)"
+     id="text90">168</text>
+  <g
+     class="bar"
+     id="g95">
+    <title
+       id="title90">Plot 169 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 67.3%  pH 5.00  N 55.8 ppm  Ca 1620 ppm</title>
+    <path
+       d="M 503.39 350.32 L 524.65 340.36 A 93.47 93.47 0 0 1 526.90 345.56 L 505.08 354.21 A 70.00 70.00 0 0 0 503.39 350.32 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path91" />
+    <path
+       d="M 524.65 340.36 L 529.37 338.15 A 98.68 98.68 0 0 1 531.74 343.65 L 526.90 345.56 A 93.47 93.47 0 0 0 524.65 340.36 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path92" />
+    <path
+       d="M 529.37 338.15 L 532.32 336.77 A 101.94 101.94 0 0 1 534.77 342.44 L 531.74 343.65 A 98.68 98.68 0 0 0 529.37 338.15 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path93" />
+    <path
+       d="M 532.32 336.77 L 540.65 332.87 A 111.14 111.14 0 0 1 543.32 339.06 L 534.77 342.44 A 101.94 101.94 0 0 0 532.32 336.77 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path94" />
+    <path
+       d="M 540.65 332.87 L 545.96 330.39 A 117.00 117.00 0 0 1 548.77 336.90 L 543.32 339.06 A 111.14 111.14 0 0 0 540.65 332.87 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path95" />
+  </g>
+  <text
+     x="553.8"
+     y="330.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(336.6 553.8 330.8)"
+     id="text95">169</text>
+  <g
+     class="bar"
+     id="g100">
+    <title
+       id="title95">Plot 176 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 69.1%  pH 5.82  N 78.8 ppm  Ca 3470 ppm</title>
+    <path
+       d="M 505.33 354.86 L 528.08 346.10 A 94.38 94.38 0 0 1 529.97 351.50 L 506.73 358.86 A 70.00 70.00 0 0 0 505.33 354.86 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path96" />
+    <path
+       d="M 528.08 346.10 L 533.80 343.89 A 100.51 100.51 0 0 1 535.82 349.64 L 529.97 351.50 A 94.38 94.38 0 0 0 528.08 346.10 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path97" />
+    <path
+       d="M 533.80 343.89 L 537.23 342.58 A 104.18 104.18 0 0 1 539.32 348.54 L 535.82 349.64 A 100.51 100.51 0 0 0 533.80 343.89 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path98" />
+    <path
+       d="M 537.23 342.58 L 541.89 340.78 A 109.17 109.17 0 0 1 544.08 347.03 L 539.32 348.54 A 104.18 104.18 0 0 0 537.23 342.58 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path99" />
+    <path
+       d="M 541.89 340.78 L 549.19 337.97 A 117.00 117.00 0 0 1 551.54 344.67 L 544.08 347.03 A 109.17 109.17 0 0 0 541.89 340.78 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path100" />
+  </g>
+  <text
+     x="557.0"
+     y="339.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(340.7 557.0 339.0)"
+     id="text100">176</text>
+  <g
+     class="bar"
+     id="g105">
+    <title
+       id="title100">Plot 179 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 59.4%  pH 7.07  N 49.2 ppm  Ca 17360 ppm</title>
+    <path
+       d="M 506.94 359.52 L 526.32 353.59 A 90.27 90.27 0 0 1 527.76 358.87 L 508.05 363.61 A 70.00 70.00 0 0 0 506.94 359.52 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path101" />
+    <path
+       d="M 526.32 353.59 L 529.87 352.50 A 93.98 93.98 0 0 1 531.37 358.00 L 527.76 358.87 A 90.27 90.27 0 0 0 526.32 353.59 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path102" />
+    <path
+       d="M 529.87 352.50 L 544.88 347.91 A 109.68 109.68 0 0 1 546.63 354.32 L 531.37 358.00 A 93.98 93.98 0 0 0 529.87 352.50 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path103" />
+    <path
+       d="M 544.88 347.91 L 546.46 347.43 A 111.33 111.33 0 0 1 548.23 353.94 L 546.63 354.32 A 109.68 109.68 0 0 0 544.88 347.91 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path104" />
+    <path
+       d="M 546.46 347.43 L 551.88 345.77 A 117.00 117.00 0 0 1 553.75 352.61 L 548.23 353.94 A 111.33 111.33 0 0 0 546.46 347.43 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path105" />
+  </g>
+  <text
+     x="559.6"
+     y="347.3"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(344.7 559.6 347.3)"
+     id="text105">179</text>
+  <g
+     class="bar"
+     id="g110">
+    <title
+       id="title105">Plot 180 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 22.5%  pH 7.08  N 13.0 ppm  Ca 3330 ppm</title>
+    <path
+       d="M 508.21 364.28 L 516.88 362.29 A 78.89 78.89 0 0 1 517.81 366.98 L 509.04 368.45 A 70.00 70.00 0 0 0 508.21 364.28 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path106" />
+    <path
+       d="M 516.88 362.29 L 525.32 360.34 A 87.56 87.56 0 0 1 526.36 365.55 L 517.81 366.98 A 78.89 78.89 0 0 0 516.88 362.29 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path107" />
+    <path
+       d="M 525.32 360.34 L 543.28 356.21 A 105.99 105.99 0 0 1 544.54 362.51 L 526.36 365.55 A 87.56 87.56 0 0 0 525.32 360.34 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path108" />
+    <path
+       d="M 543.28 356.21 L 552.70 354.04 A 115.65 115.65 0 0 1 554.06 360.91 L 544.54 362.51 A 105.99 105.99 0 0 0 543.28 356.21 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path109" />
+    <path
+       d="M 552.70 354.04 L 554.01 353.73 A 117.00 117.00 0 0 1 555.40 360.69 L 554.06 360.91 A 115.65 115.65 0 0 0 552.70 354.04 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path110" />
+  </g>
+  <text
+     x="561.6"
+     y="355.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(348.8 561.6 355.8)"
+     id="text110">180</text>
+  <g
+     class="bar"
+     id="g115">
+    <title
+       id="title110">Plot 181 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 70.9%  pH 5.43  N 66.0 ppm  Ca 4620 ppm</title>
+    <path
+       d="M 509.15 369.13 L 528.91 366.02 A 90.00 90.00 0 0 1 529.59 371.44 L 509.68 373.34 A 70.00 70.00 0 0 0 509.15 369.13 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path111" />
+    <path
+       d="M 528.91 366.02 L 534.65 365.12 A 95.81 95.81 0 0 1 535.38 370.88 L 529.59 371.44 A 90.00 90.00 0 0 0 528.91 366.02 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path112" />
+    <path
+       d="M 534.65 365.12 L 541.89 363.98 A 103.14 103.14 0 0 1 542.67 370.18 L 535.38 370.88 A 95.81 95.81 0 0 0 534.65 365.12 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path113" />
+    <path
+       d="M 541.89 363.98 L 550.98 362.55 A 112.34 112.34 0 0 1 551.83 369.31 L 542.67 370.18 A 103.14 103.14 0 0 0 541.89 363.98 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path114" />
+    <path
+       d="M 550.98 362.55 L 555.58 361.83 A 117.00 117.00 0 0 1 556.47 368.87 L 551.83 369.31 A 112.34 112.34 0 0 0 550.98 362.55 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path115" />
+  </g>
+  <text
+     x="563.0"
+     y="364.5"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(352.8 563.0 364.5)"
+     id="text115">181</text>
+  <g
+     class="bar"
+     id="g120">
+    <title
+       id="title115">Plot 183 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 57.4%  pH 6.05  N 72.6 ppm  Ca 11040 ppm</title>
+    <path
+       d="M 509.74 374.03 L 531.57 372.16 A 91.91 91.91 0 0 1 531.88 377.72 L 509.98 378.26 A 70.00 70.00 0 0 0 509.74 374.03 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path116" />
+    <path
+       d="M 531.57 372.16 L 536.35 371.75 A 96.70 96.70 0 0 1 536.67 377.60 L 531.88 377.72 A 91.91 91.91 0 0 0 531.57 372.16 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path117" />
+    <path
+       d="M 536.35 371.75 L 548.32 370.72 A 108.72 108.72 0 0 1 548.68 377.30 L 536.67 377.60 A 96.70 96.70 0 0 0 536.35 371.75 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path118" />
+    <path
+       d="M 548.32 370.72 L 551.12 370.48 A 111.52 111.52 0 0 1 551.49 377.23 L 548.68 377.30 A 108.72 108.72 0 0 0 548.32 370.72 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path119" />
+    <path
+       d="M 551.12 370.48 L 556.57 370.02 A 117.00 117.00 0 0 1 556.96 377.10 L 551.49 377.23 A 111.52 111.52 0 0 0 551.12 370.48 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path120" />
+  </g>
+  <text
+     x="563.8"
+     y="373.2"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(356.8 563.8 373.2)"
+     id="text120">183</text>
+  <g
+     class="bar"
+     id="g124">
+    <title
+       id="title120">Plot 184 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 66.1%  pH 4.03  N 134.2 ppm  Ca 1250 ppm</title>
+    <path
+       d="M 509.99 378.95 L 530.37 378.65 A 90.38 90.38 0 0 1 530.29 384.13 L 509.93 383.20 A 70.00 70.00 0 0 0 509.99 378.95 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path121" />
+    <path
+       d="M 530.37 378.65 L 539.17 378.52 A 99.18 99.18 0 0 1 539.07 384.53 L 530.29 384.13 A 90.38 90.38 0 0 0 530.37 378.65 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path122" />
+    <path
+       d="M 539.17 378.52 L 550.75 378.35 A 110.77 110.77 0 0 1 550.65 385.06 L 539.07 384.53 A 99.18 99.18 0 0 0 539.17 378.52 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path123" />
+    <path
+       d="M 550.75 378.35 L 556.99 378.25 A 117.00 117.00 0 0 1 556.88 385.34 L 550.65 385.06 A 110.77 110.77 0 0 0 550.75 378.35 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path124" />
+  </g>
+  <text
+     x="564.0"
+     y="381.9"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(0.9 564.0 381.9)"
+     id="text124">184</text>
+  <g
+     class="bar"
+     id="g129">
+    <title
+       id="title124">Plot 185 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 66.1%  pH 5.64  N 42.2 ppm  Ca 6360 ppm</title>
+    <path
+       d="M 509.89 383.89 L 531.66 385.10 A 91.81 91.81 0 0 1 531.19 390.64 L 509.53 388.11 A 70.00 70.00 0 0 0 509.89 383.89 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path125" />
+    <path
+       d="M 531.66 385.10 L 536.34 385.36 A 96.49 96.49 0 0 1 535.84 391.18 L 531.19 390.64 A 91.81 91.81 0 0 0 531.66 385.10 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path126" />
+    <path
+       d="M 536.34 385.36 L 548.04 386.01 A 108.20 108.20 0 0 1 547.47 392.54 L 535.84 391.18 A 96.49 96.49 0 0 0 536.34 385.36 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path127" />
+    <path
+       d="M 548.04 386.01 L 553.68 386.32 A 113.85 113.85 0 0 1 553.09 393.20 L 547.47 392.54 A 108.20 108.20 0 0 0 548.04 386.01 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path128" />
+    <path
+       d="M 553.68 386.32 L 556.82 386.50 A 117.00 117.00 0 0 1 556.21 393.56 L 553.09 393.20 A 113.85 113.85 0 0 0 553.68 386.32 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path129" />
+  </g>
+  <text
+     x="563.5"
+     y="390.6"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(4.9 563.5 390.6)"
+     id="text129">185</text>
+  <g
+     class="bar"
+     id="g134">
+    <title
+       id="title129">Plot 206 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 63.2%  pH 5.18  N 53.0 ppm  Ca 6260 ppm</title>
+    <path
+       d="M 509.44 388.80 L 530.36 391.45 A 91.08 91.08 0 0 1 529.50 396.90 L 508.78 392.99 A 70.00 70.00 0 0 0 509.44 388.80 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path130" />
+    <path
+       d="M 530.36 391.45 L 534.79 392.01 A 95.54 95.54 0 0 1 533.88 397.73 L 529.50 396.90 A 91.08 91.08 0 0 0 530.36 391.45 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path131" />
+    <path
+       d="M 534.79 392.01 L 543.78 393.15 A 104.61 104.61 0 0 1 542.79 399.42 L 533.88 397.73 A 95.54 95.54 0 0 0 534.79 392.01 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path132" />
+    <path
+       d="M 543.78 393.15 L 549.96 393.93 A 110.84 110.84 0 0 1 548.92 400.57 L 542.79 399.42 A 104.61 104.61 0 0 0 543.78 393.15 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path133" />
+    <path
+       d="M 549.96 393.93 L 556.07 394.71 A 117.00 117.00 0 0 1 554.97 401.71 L 548.92 400.57 A 110.84 110.84 0 0 0 549.96 393.93 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path134" />
+  </g>
+  <text
+     x="562.5"
+     y="399.3"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(9.0 562.5 399.3)"
+     id="text134">206</text>
+  <g
+     class="bar"
+     id="g139">
+    <title
+       id="title134">Plot 207 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 63.0%  pH 5.46  N 34.4 ppm  Ca 6950 ppm</title>
+    <path
+       d="M 508.65 393.67 L 533.31 398.58 A 95.14 95.14 0 0 1 532.01 404.20 L 507.70 397.80 A 70.00 70.00 0 0 0 508.65 393.67 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path135" />
+    <path
+       d="M 533.31 398.58 L 535.83 399.08 A 97.72 97.72 0 0 1 534.50 404.85 L 532.01 404.20 A 95.14 95.14 0 0 0 533.31 398.58 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path136" />
+    <path
+       d="M 535.83 399.08 L 543.12 400.53 A 105.14 105.14 0 0 1 541.68 406.74 L 534.50 404.85 A 97.72 97.72 0 0 0 535.83 399.08 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path137" />
+    <path
+       d="M 543.12 400.53 L 544.46 400.80 A 106.51 106.51 0 0 1 543.01 407.09 L 541.68 406.74 A 105.14 105.14 0 0 0 543.12 400.53 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path138" />
+    <path
+       d="M 544.46 400.80 L 554.75 402.85 A 117.00 117.00 0 0 1 553.15 409.76 L 543.01 407.09 A 106.51 106.51 0 0 0 544.46 400.80 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path139" />
+  </g>
+  <text
+     x="560.8"
+     y="407.9"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(13.0 560.8 407.9)"
+     id="text139">207</text>
+  <g
+     class="bar"
+     id="g144">
+    <title
+       id="title139">Plot 218 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 64.0%  pH 6.27  N 48.8 ppm  Ca 6870 ppm</title>
+    <path
+       d="M 507.52 398.47 L 531.91 405.14 A 95.29 95.29 0 0 1 530.22 410.67 L 506.28 402.53 A 70.00 70.00 0 0 0 507.52 398.47 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path140" />
+    <path
+       d="M 531.91 405.14 L 534.98 405.98 A 98.47 98.47 0 0 1 533.23 411.69 L 530.22 410.67 A 95.29 95.29 0 0 0 531.91 405.14 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path141" />
+    <path
+       d="M 534.98 405.98 L 541.69 407.82 A 105.42 105.42 0 0 1 539.81 413.93 L 533.23 411.69 A 98.47 98.47 0 0 0 534.98 405.98 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path142" />
+    <path
+       d="M 541.69 407.82 L 542.50 408.04 A 106.26 106.26 0 0 1 540.61 414.20 L 539.81 413.93 A 105.42 105.42 0 0 0 541.69 407.82 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path143" />
+    <path
+       d="M 542.50 408.04 L 552.85 410.87 A 117.00 117.00 0 0 1 550.77 417.66 L 540.61 414.20 A 106.26 106.26 0 0 0 542.50 408.04 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path144" />
+  </g>
+  <text
+     x="558.6"
+     y="416.3"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(17.0 558.6 416.3)"
+     id="text144">218</text>
+  <g
+     class="bar"
+     id="g149">
+    <title
+       id="title144">Plot 236 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 55.0%  pH 6.40  N 35.8 ppm  Ca 4130 ppm</title>
+    <path
+       d="M 506.05 403.18 L 528.58 411.09 A 93.88 93.88 0 0 1 526.53 416.40 L 504.52 407.14 A 70.00 70.00 0 0 0 506.05 403.18 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path145" />
+    <path
+       d="M 528.58 411.09 L 531.66 412.17 A 97.14 97.14 0 0 1 529.55 417.67 L 526.53 416.40 A 93.88 93.88 0 0 0 528.58 411.09 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path146" />
+    <path
+       d="M 531.66 412.17 L 538.01 414.40 A 103.88 103.88 0 0 1 535.75 420.28 L 529.55 417.67 A 97.14 97.14 0 0 0 531.66 412.17 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path147" />
+    <path
+       d="M 538.01 414.40 L 542.25 415.89 A 108.37 108.37 0 0 1 539.89 422.02 L 535.75 420.28 A 103.88 103.88 0 0 0 538.01 414.40 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path148" />
+    <path
+       d="M 542.25 415.89 L 550.40 418.75 A 117.00 117.00 0 0 1 547.85 425.36 L 539.89 422.02 A 108.37 108.37 0 0 0 542.25 415.89 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path149" />
+  </g>
+  <text
+     x="555.7"
+     y="424.6"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(21.1 555.7 424.6)"
+     id="text149">236</text>
+  <g
+     class="bar"
+     id="g153">
+    <title
+       id="title149">Plot 242 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 3.4%  pH 8.02  N 17.8 ppm  Ca 4520 ppm</title>
+    <path
+       d="M 504.25 407.78 L 511.34 410.84 A 77.73 77.73 0 0 1 509.35 415.11 L 502.45 411.62 A 70.00 70.00 0 0 0 504.25 407.78 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path150" />
+    <path
+       d="M 511.34 410.84 L 527.69 417.91 A 95.53 95.53 0 0 1 525.23 423.15 L 509.35 415.11 A 77.73 77.73 0 0 0 511.34 410.84 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path151" />
+    <path
+       d="M 527.69 417.91 L 534.32 420.78 A 102.76 102.76 0 0 1 531.68 426.42 L 525.23 423.15 A 95.53 95.53 0 0 0 527.69 417.91 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path152" />
+    <path
+       d="M 534.32 420.78 L 547.39 426.43 A 117.00 117.00 0 0 1 544.38 432.85 L 531.68 426.42 A 102.76 102.76 0 0 0 534.32 420.78 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path153" />
+  </g>
+  <text
+     x="552.3"
+     y="432.6"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(25.1 552.3 432.6)"
+     id="text153">242</text>
+  <g
+     class="bar"
+     id="g158">
+    <title
+       id="title153">Plot 250 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 64.6%  pH 5.59  N 18.3 ppm  Ca 5100 ppm</title>
+    <path
+       d="M 502.14 412.23 L 523.59 423.36 A 94.16 94.16 0 0 1 520.81 428.35 L 500.07 415.94 A 70.00 70.00 0 0 0 502.14 412.23 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path154" />
+    <path
+       d="M 523.59 423.36 L 525.29 424.24 A 96.08 96.08 0 0 1 522.45 429.33 L 520.81 428.35 A 94.16 94.16 0 0 0 523.59 423.36 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path155" />
+    <path
+       d="M 525.29 424.24 L 530.00 426.69 A 101.39 101.39 0 0 1 527.01 432.06 L 522.45 429.33 A 96.08 96.08 0 0 0 525.29 424.24 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path156" />
+    <path
+       d="M 530.00 426.69 L 534.43 428.99 A 106.38 106.38 0 0 1 531.29 434.62 L 527.01 432.06 A 101.39 101.39 0 0 0 530.00 426.69 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path157" />
+    <path
+       d="M 534.43 428.99 L 543.86 433.88 A 117.00 117.00 0 0 1 540.40 440.07 L 531.29 434.62 A 106.38 106.38 0 0 0 534.43 428.99 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path158" />
+  </g>
+  <text
+     x="548.3"
+     y="440.4"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(29.2 548.3 440.4)"
+     id="text158">250</text>
+  <g
+     class="bar"
+     id="g163">
+    <title
+       id="title158">Plot 251 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 63.6%  pH 5.81  N 37.2 ppm  Ca 5520 ppm</title>
+    <path
+       d="M 499.71 416.53 L 521.55 429.89 A 95.60 95.60 0 0 1 518.38 434.74 L 497.39 420.08 A 70.00 70.00 0 0 0 499.71 416.53 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path159" />
+    <path
+       d="M 521.55 429.89 L 524.16 431.49 A 98.66 98.66 0 0 1 520.88 436.49 L 518.38 434.74 A 95.60 95.60 0 0 0 521.55 429.89 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path160" />
+    <path
+       d="M 524.16 431.49 L 528.20 433.96 A 103.40 103.40 0 0 1 524.77 439.20 L 520.88 436.49 A 98.66 98.66 0 0 0 524.16 431.49 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path161" />
+    <path
+       d="M 528.20 433.96 L 531.37 435.90 A 107.11 107.11 0 0 1 527.82 441.33 L 524.77 439.20 A 103.40 103.40 0 0 0 528.20 433.96 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path162" />
+    <path
+       d="M 531.37 435.90 L 539.80 441.06 A 117.00 117.00 0 0 1 535.92 446.99 L 527.82 441.33 A 107.11 107.11 0 0 0 531.37 435.90 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path163" />
+  </g>
+  <text
+     x="543.8"
+     y="447.9"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(33.2 543.8 447.9)"
+     id="text163">251</text>
+  <g
+     class="bar"
+     id="g168">
+    <title
+       id="title163">Plot 257 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 76.8%  pH 5.85  N 30.2 ppm  Ca 4110 ppm</title>
+    <path
+       d="M 496.99 420.65 L 517.28 435.12 A 94.93 94.93 0 0 1 513.80 439.70 L 494.42 424.02 A 70.00 70.00 0 0 0 496.99 420.65 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path164" />
+    <path
+       d="M 517.28 435.12 L 519.47 436.68 A 97.61 97.61 0 0 1 515.89 441.39 L 513.80 439.70 A 94.93 94.93 0 0 0 517.28 435.12 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path165" />
+    <path
+       d="M 519.47 436.68 L 523.22 439.35 A 102.22 102.22 0 0 1 519.47 444.29 L 515.89 441.39 A 97.61 97.61 0 0 0 519.47 436.68 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path166" />
+    <path
+       d="M 523.22 439.35 L 527.55 442.44 A 107.53 107.53 0 0 1 523.60 447.63 L 519.47 444.29 A 102.22 102.22 0 0 0 523.22 439.35 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path167" />
+    <path
+       d="M 527.55 442.44 L 535.26 447.94 A 117.00 117.00 0 0 1 530.96 453.58 L 523.60 447.63 A 107.53 107.53 0 0 0 527.55 442.44 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path168" />
+  </g>
+  <text
+     x="538.7"
+     y="455.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(37.2 538.7 455.0)"
+     id="text168">257</text>
+  <g
+     class="bar"
+     id="g171">
+    <title
+       id="title168">Plot 258 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 75.6%  pH 6.33  N 16.0 ppm  Ca 7450 ppm</title>
+    <path
+       d="M 493.99 424.56 L 515.45 442.27 A 97.83 97.83 0 0 1 511.54 446.73 L 491.19 427.75 A 70.00 70.00 0 0 0 493.99 424.56 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path169" />
+    <path
+       d="M 515.45 442.27 L 520.46 446.41 A 104.32 104.32 0 0 1 516.28 451.16 L 511.54 446.73 A 97.83 97.83 0 0 0 515.45 442.27 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path170" />
+    <path
+       d="M 520.46 446.41 L 530.23 454.48 A 117.00 117.00 0 0 1 525.56 459.81 L 516.28 451.16 A 104.32 104.32 0 0 0 520.46 446.41 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path171" />
+  </g>
+  <text
+     x="533.2"
+     y="461.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(41.3 533.2 461.8)"
+     id="text171">258</text>
+  <g
+     class="bar"
+     id="g176">
+    <title
+       id="title171">Plot 263 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 57.7%  pH 6.34  N 38.1 ppm  Ca 4630 ppm</title>
+    <path
+       d="M 490.71 428.25 L 505.04 441.88 A 89.77 89.77 0 0 1 501.17 445.71 L 487.70 431.23 A 70.00 70.00 0 0 0 490.71 428.25 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path172" />
+    <path
+       d="M 505.04 441.88 L 509.00 445.65 A 95.24 95.24 0 0 1 504.89 449.71 L 501.17 445.71 A 89.77 89.77 0 0 0 505.04 441.88 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path173" />
+    <path
+       d="M 509.00 445.65 L 515.79 452.11 A 104.62 104.62 0 0 1 511.28 456.57 L 504.89 449.71 A 95.24 95.24 0 0 0 509.00 445.65 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path174" />
+    <path
+       d="M 515.79 452.11 L 519.37 455.52 A 109.55 109.55 0 0 1 514.65 460.19 L 511.28 456.57 A 104.62 104.62 0 0 0 515.79 452.11 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path175" />
+    <path
+       d="M 519.37 455.52 L 524.76 460.65 A 117.00 117.00 0 0 1 519.72 465.64 L 514.65 460.19 A 109.55 109.55 0 0 0 519.37 455.52 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path176" />
+  </g>
+  <text
+     x="527.2"
+     y="468.2"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(45.3 527.2 468.2)"
+     id="text176">263</text>
+  <g
+     class="bar"
+     id="g181">
+    <title
+       id="title176">Plot 268 – Undisturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 85.8%  pH 5.14  N 14.2 ppm  Ca 2260 ppm</title>
+    <path
+       d="M 487.19 431.70 L 503.76 449.86 A 94.59 94.59 0 0 1 499.41 453.60 L 483.97 434.47 A 70.00 70.00 0 0 0 487.19 431.70 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path177" />
+    <path
+       d="M 503.76 449.86 L 505.60 451.88 A 97.31 97.31 0 0 1 501.13 455.72 L 499.41 453.60 A 94.59 94.59 0 0 0 503.76 449.86 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path178" />
+    <path
+       d="M 505.60 451.88 L 507.99 454.50 A 100.86 100.86 0 0 1 503.35 458.48 L 501.13 455.72 A 97.31 97.31 0 0 0 505.60 451.88 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path179" />
+    <path
+       d="M 507.99 454.50 L 512.70 459.66 A 107.85 107.85 0 0 1 507.74 463.92 L 503.35 458.48 A 100.86 100.86 0 0 0 507.99 454.50 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path180" />
+    <path
+       d="M 512.70 459.66 L 518.87 466.42 A 117.00 117.00 0 0 1 513.49 471.04 L 507.74 463.92 A 107.85 107.85 0 0 0 512.70 459.66 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path181" />
+  </g>
+  <text
+     x="520.8"
+     y="474.1"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(49.4 520.8 474.1)"
+     id="text181">268</text>
+  <g
+     class="bar"
+     id="g186">
+    <title
+       id="title181">Plot 264 – Undisturbed
+Disturbance score 3/10  intensity 2/7
+Organic matter 3.1%  pH 7.90  N 12.7 ppm  Ca 5240 ppm</title>
+    <path
+       d="M 483.43 434.90 L 485.03 436.92 A 72.58 72.58 0 0 1 481.50 439.54 L 480.02 437.43 A 70.00 70.00 0 0 0 483.43 434.90 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path182" />
+    <path
+       d="M 485.03 436.92 L 491.09 444.58 A 82.35 82.35 0 0 1 487.08 447.56 L 481.50 439.54 A 72.58 72.58 0 0 0 485.03 436.92 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path183" />
+    <path
+       d="M 491.09 444.58 L 506.43 463.97 A 107.07 107.07 0 0 1 501.22 467.84 L 487.08 447.56 A 82.35 82.35 0 0 0 491.09 444.58 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path184" />
+    <path
+       d="M 506.43 463.97 L 512.82 472.05 A 117.37 117.37 0 0 1 507.11 476.29 L 501.22 467.84 A 107.07 107.07 0 0 0 506.43 463.97 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path185" />
+    <path
+       d="M 512.82 472.05 L 527.17 490.19 A 140.50 140.50 0 0 1 520.33 495.27 L 507.11 476.29 A 117.37 117.37 0 0 0 512.82 472.05 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path186" />
+  </g>
+  <text
+     x="528.0"
+     y="498.4"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(53.4 528.0 498.4)"
+     id="text186">264</text>
+  <g
+     class="bar"
+     id="g191">
+    <title
+       id="title186">Plot 223 – Undisturbed
+Disturbance score 5/10  intensity 3/7
+Organic matter 10.7%  pH 7.26  N 15.4 ppm  Ca 4880 ppm</title>
+    <path
+       d="M 479.45 437.82 L 490.96 454.69 A 90.42 90.42 0 0 1 486.34 457.64 L 475.88 440.11 A 70.00 70.00 0 0 0 479.45 437.82 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path187" />
+    <path
+       d="M 490.96 454.69 L 501.32 469.86 A 108.79 108.79 0 0 1 495.76 473.41 L 486.34 457.64 A 90.42 90.42 0 0 0 490.96 454.69 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path188" />
+    <path
+       d="M 501.32 469.86 L 524.47 503.80 A 149.87 149.87 0 0 1 516.82 508.69 L 495.76 473.41 A 108.79 108.79 0 0 0 501.32 469.86 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path189" />
+    <path
+       d="M 524.47 503.80 L 534.67 518.74 A 167.96 167.96 0 0 1 526.09 524.22 L 516.82 508.69 A 149.87 149.87 0 0 0 524.47 503.80 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path190" />
+    <path
+       d="M 534.67 518.74 L 545.68 534.88 A 187.50 187.50 0 0 1 536.10 541.00 L 526.09 524.22 A 167.96 167.96 0 0 0 534.67 518.74 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path191" />
+  </g>
+  <text
+     x="544.7"
+     y="543.9"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(57.4 544.7 543.9)"
+     id="text191">223</text>
+  <g
+     class="bar"
+     id="g196">
+    <title
+       id="title191">Plot 136 – Undisturbed
+Disturbance score 6/10  intensity 4/7
+Organic matter 25.8%  pH 5.34  N 21.5 ppm  Ca 4990 ppm</title>
+    <path
+       d="M 475.28 440.46 L 503.01 487.97 A 125.01 125.01 0 0 1 496.36 491.59 L 471.56 442.48 A 70.00 70.00 0 0 0 475.28 440.46 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path192" />
+    <path
+       d="M 503.01 487.97 L 511.07 501.78 A 141.00 141.00 0 0 1 503.56 505.86 L 496.36 491.59 A 125.01 125.01 0 0 0 503.01 487.97 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path193" />
+    <path
+       d="M 511.07 501.78 L 525.37 526.28 A 169.37 169.37 0 0 1 516.35 531.19 L 503.56 505.86 A 141.00 141.00 0 0 0 511.07 501.78 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path194" />
+    <path
+       d="M 525.37 526.28 L 533.57 540.33 A 185.64 185.64 0 0 1 523.69 545.71 L 516.35 531.19 A 169.37 169.37 0 0 0 525.37 526.28 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path195" />
+    <path
+       d="M 533.57 540.33 L 546.36 562.23 A 211.00 211.00 0 0 1 535.12 568.34 L 523.69 545.71 A 185.64 185.64 0 0 0 533.57 540.33 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path196" />
+  </g>
+  <text
+     x="544.1"
+     y="571.5"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(61.5 544.1 571.5)"
+     id="text196">136</text>
+  <g
+     class="bar"
+     id="g201">
+    <title
+       id="title196">Plot 170 – Undisturbed
+Disturbance score 6/10  intensity 3/7
+Organic matter 70.5%  pH 5.38  N 47.8 ppm  Ca 5240 ppm</title>
+    <path
+       d="M 470.94 442.79 L 499.10 499.95 A 133.72 133.72 0 0 1 491.72 503.31 L 467.08 444.55 A 70.00 70.00 0 0 0 470.94 442.79 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path197" />
+    <path
+       d="M 499.10 499.95 L 505.07 512.06 A 147.22 147.22 0 0 1 496.95 515.76 L 491.72 503.31 A 133.72 133.72 0 0 0 499.10 499.95 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path198" />
+    <path
+       d="M 505.07 512.06 L 516.02 534.29 A 172.00 172.00 0 0 1 506.53 538.61 L 496.95 515.76 A 147.22 147.22 0 0 0 505.07 512.06 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path199" />
+    <path
+       d="M 516.02 534.29 L 524.46 551.43 A 191.10 191.10 0 0 1 513.92 556.23 L 506.53 538.61 A 172.00 172.00 0 0 0 516.02 534.29 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path200" />
+    <path
+       d="M 524.46 551.43 L 533.26 569.27 A 211.00 211.00 0 0 1 521.62 574.58 L 513.92 556.23 A 191.10 191.10 0 0 0 524.46 551.43 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path201" />
+  </g>
+  <text
+     x="530.4"
+     y="578.4"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(65.5 530.4 578.4)"
+     id="text201">170</text>
+  <g
+     class="bar"
+     id="g206">
+    <title
+       id="title201">Plot 175 – Undisturbed
+Disturbance score 7/10  intensity 4/7
+Organic matter 62.6%  pH 6.04  N 71.8 ppm  Ca 8520 ppm</title>
+    <path
+       d="M 466.44 444.82 L 491.33 505.84 A 135.91 135.91 0 0 1 483.61 508.72 L 462.46 446.30 A 70.00 70.00 0 0 0 466.44 444.82 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path202" />
+    <path
+       d="M 491.33 505.84 L 496.66 518.91 A 150.03 150.03 0 0 1 488.14 522.09 L 483.61 508.72 A 135.91 135.91 0 0 0 491.33 505.84 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path203" />
+    <path
+       d="M 496.66 518.91 L 512.07 556.69 A 190.82 190.82 0 0 1 501.23 560.73 L 488.14 522.09 A 150.03 150.03 0 0 0 496.66 518.91 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path204" />
+    <path
+       d="M 512.07 556.69 L 523.11 583.76 A 220.06 220.06 0 0 1 510.61 588.42 L 501.23 560.73 A 190.82 190.82 0 0 0 512.07 556.69 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path205" />
+    <path
+       d="M 523.11 583.76 L 528.57 597.13 A 234.50 234.50 0 0 1 515.25 602.10 L 510.61 588.42 A 220.06 220.06 0 0 0 523.11 583.76 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path206" />
+  </g>
+  <text
+     x="524.4"
+     y="606.3"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(69.5 524.4 606.3)"
+     id="text206">175</text>
+  <g
+     class="bar"
+     id="g211">
+    <title
+       id="title206">Plot 239 – Undisturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 25.1%  pH 5.33  N 19.6 ppm  Ca 3530 ppm</title>
+    <path
+       d="M 461.81 446.52 L 476.38 490.95 A 116.76 116.76 0 0 1 469.59 492.95 L 457.74 447.72 A 70.00 70.00 0 0 0 461.81 446.52 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path207" />
+    <path
+       d="M 476.38 490.95 L 482.35 509.17 A 135.93 135.93 0 0 1 474.44 511.49 L 469.59 492.95 A 116.76 116.76 0 0 0 476.38 490.95 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path208" />
+    <path
+       d="M 482.35 509.17 L 497.42 555.15 A 184.32 184.32 0 0 1 486.70 558.31 L 474.44 511.49 A 135.93 135.93 0 0 0 482.35 509.17 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path209" />
+    <path
+       d="M 497.42 555.15 L 508.84 589.97 A 220.96 220.96 0 0 1 495.99 593.75 L 486.70 558.31 A 184.32 184.32 0 0 0 497.42 555.15 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path210" />
+    <path
+       d="M 508.84 589.97 L 527.70 647.49 A 281.50 281.50 0 0 1 511.33 652.31 L 495.99 593.75 A 220.96 220.96 0 0 0 508.84 589.97 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path211" />
+  </g>
+  <text
+     x="521.5"
+     y="656.7"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(73.6 521.5 656.7)"
+     id="text211">239</text>
+  <g
+     class="bar"
+     id="g216">
+    <title
+       id="title211">Plot 84 – Naturally disturbed
+Disturbance score 5/10  intensity 3/7
+Organic matter 79.5%  pH 6.55  N 40.1 ppm  Ca 12550 ppm</title>
+    <path
+       d="M 453.65 448.66 L 463.56 498.45 A 120.77 120.77 0 0 1 456.34 499.66 L 449.47 449.36 A 70.00 70.00 0 0 0 453.65 448.66 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path212" />
+    <path
+       d="M 463.56 498.45 L 465.35 507.46 A 129.96 129.96 0 0 1 457.58 508.76 L 456.34 499.66 A 120.77 120.77 0 0 0 463.56 498.45 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path213" />
+    <path
+       d="M 465.35 507.46 L 473.17 546.77 A 170.04 170.04 0 0 1 463.00 548.48 L 457.58 508.76 A 129.96 129.96 0 0 0 465.35 507.46 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path214" />
+    <path
+       d="M 473.17 546.77 L 475.26 557.28 A 180.76 180.76 0 0 1 464.45 559.09 L 463.00 548.48 A 170.04 170.04 0 0 0 473.17 546.77 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path215" />
+    <path
+       d="M 475.26 557.28 L 476.57 563.90 A 187.50 187.50 0 0 1 465.36 565.78 L 464.45 559.09 A 180.76 180.76 0 0 0 475.26 557.28 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path216" />
+  </g>
+  <text
+     x="472.1"
+     y="571.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(80.5 472.1 571.8)"
+     id="text216">84</text>
+  <g
+     class="bar"
+     id="g221">
+    <title
+       id="title216">Plot 259 – Naturally disturbed
+Disturbance score 7/10  intensity 4/7
+Organic matter 5.8%  pH 4.29  N 15.1 ppm  Ca 790 ppm</title>
+    <path
+       d="M 448.78 449.45 L 451.16 468.23 A 88.93 88.93 0 0 1 445.79 468.74 L 444.56 449.85 A 70.00 70.00 0 0 0 448.78 449.45 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path217" />
+    <path
+       d="M 451.16 468.23 L 453.96 490.41 A 111.29 111.29 0 0 1 447.25 491.06 L 445.79 468.74 A 88.93 88.93 0 0 0 451.16 468.23 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path218" />
+    <path
+       d="M 453.96 490.41 L 457.62 519.33 A 140.44 140.44 0 0 1 449.15 520.14 L 447.25 491.06 A 111.29 111.29 0 0 0 453.96 490.41 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path219" />
+    <path
+       d="M 457.62 519.33 L 466.64 590.65 A 212.33 212.33 0 0 1 453.83 591.88 L 449.15 520.14 A 140.44 140.44 0 0 0 457.62 519.33 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path220" />
+    <path
+       d="M 466.64 590.65 L 469.42 612.65 A 234.50 234.50 0 0 1 455.27 614.00 L 453.83 591.88 A 212.33 212.33 0 0 0 466.64 590.65 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path221" />
+  </g>
+  <text
+     x="463.0"
+     y="620.4"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(84.5 463.0 620.4)"
+     id="text221">259</text>
+  <g
+     class="bar"
+     id="g226">
+    <title
+       id="title221">Plot 172 – Naturally disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 22.4%  pH 5.61  N 27.4 ppm  Ca 3500 ppm</title>
+    <path
+       d="M 443.87 449.89 L 448.51 533.73 A 153.96 153.96 0 0 1 439.18 533.96 L 439.63 450.00 A 70.00 70.00 0 0 0 443.87 449.89 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path222" />
+    <path
+       d="M 448.51 533.73 L 450.07 561.89 A 182.16 182.16 0 0 1 439.03 562.16 L 439.18 533.96 A 153.96 153.96 0 0 0 448.51 533.73 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path223" />
+    <path
+       d="M 450.07 561.89 L 452.50 605.69 A 226.03 226.03 0 0 1 438.80 606.03 L 439.03 562.16 A 182.16 182.16 0 0 0 450.07 561.89 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path224" />
+    <path
+       d="M 452.50 605.69 L 453.94 631.74 A 252.13 252.13 0 0 1 438.66 632.13 L 438.80 606.03 A 226.03 226.03 0 0 0 452.50 605.69 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path225" />
+    <path
+       d="M 453.94 631.74 L 455.56 661.07 A 281.50 281.50 0 0 1 438.50 661.50 L 438.66 632.13 A 252.13 252.13 0 0 0 453.94 631.74 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path226" />
+  </g>
+  <text
+     x="447.2"
+     y="668.4"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="start"
+     dominant-baseline="central"
+     transform="rotate(88.6 447.2 668.4)"
+     id="text226">172</text>
+  <g
+     class="bar"
+     id="g231">
+    <title
+       id="title226">Plot 83 – Naturally disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 18.6%  pH 7.51  N 19.4 ppm  Ca 5210 ppm</title>
+    <path
+       d="M 438.94 449.99 L 438.20 498.77 A 118.79 118.79 0 0 1 431.00 498.45 L 434.70 449.80 A 70.00 70.00 0 0 0 438.94 449.99 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path227" />
+    <path
+       d="M 438.20 498.77 L 437.61 537.55 A 157.57 157.57 0 0 1 428.07 537.12 L 431.00 498.45 A 118.79 118.79 0 0 0 438.20 498.77 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path228" />
+    <path
+       d="M 437.61 537.55 L 436.29 624.61 A 244.64 244.64 0 0 1 421.47 623.94 L 428.07 537.12 A 157.57 157.57 0 0 0 437.61 537.55 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path229" />
+    <path
+       d="M 436.29 624.61 L 435.65 666.59 A 286.63 286.63 0 0 1 418.29 665.80 L 421.47 623.94 A 244.64 244.64 0 0 0 436.29 624.61 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path230" />
+    <path
+       d="M 435.65 666.59 L 435.37 684.96 A 305.00 305.00 0 0 1 416.90 684.12 L 418.29 665.80 A 286.63 286.63 0 0 0 435.65 666.59 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path231" />
+  </g>
+  <text
+     x="425.8"
+     y="691.7"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-87.4 425.8 691.7)"
+     id="text231">83</text>
+  <g
+     class="bar"
+     id="g236">
+    <title
+       id="title231">Plot 225 – Naturally disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 7.0%  pH 7.72  N 20.2 ppm  Ca 4490 ppm</title>
+    <path
+       d="M 434.01 449.74 L 431.47 479.27 A 99.63 99.63 0 0 1 425.47 478.57 L 429.80 449.25 A 70.00 70.00 0 0 0 434.01 449.74 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path232" />
+    <path
+       d="M 431.47 479.27 L 428.09 518.65 A 139.16 139.16 0 0 1 419.71 517.67 L 425.47 478.57 A 99.63 99.63 0 0 0 431.47 479.27 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path233" />
+    <path
+       d="M 428.09 518.65 L 420.53 606.68 A 227.51 227.51 0 0 1 406.83 605.08 L 419.71 517.67 A 139.16 139.16 0 0 0 428.09 518.65 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path234" />
+    <path
+       d="M 420.53 606.68 L 418.19 633.89 A 254.82 254.82 0 0 1 402.85 632.10 L 406.83 605.08 A 227.51 227.51 0 0 0 420.53 606.68 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path235" />
+    <path
+       d="M 418.19 633.89 L 413.90 683.88 A 305.00 305.00 0 0 1 395.54 681.74 L 402.85 632.10 A 254.82 254.82 0 0 0 418.19 633.89 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path236" />
+  </g>
+  <text
+     x="403.9"
+     y="689.9"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-83.4 403.9 689.9)"
+     id="text236">225</text>
+  <g
+     class="bar"
+     id="g241">
+    <title
+       id="title236">Plot 230 – Naturally disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 7.4%  pH 7.67  N 14.6 ppm  Ca 5710 ppm</title>
+    <path
+       d="M 429.11 449.15 L 426.31 466.91 A 87.98 87.98 0 0 1 421.07 465.92 L 424.94 448.36 A 70.00 70.00 0 0 0 429.11 449.15 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path237" />
+    <path
+       d="M 426.31 466.91 L 421.67 496.40 A 117.83 117.83 0 0 1 414.65 495.07 L 421.07 465.92 A 87.98 87.98 0 0 0 426.31 466.91 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path238" />
+    <path
+       d="M 421.67 496.40 L 409.38 574.50 A 196.89 196.89 0 0 1 397.65 572.28 L 414.65 495.07 A 117.83 117.83 0 0 0 421.67 496.40 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path239" />
+    <path
+       d="M 409.38 574.50 L 403.50 611.78 A 234.64 234.64 0 0 1 389.53 609.15 L 397.65 572.28 A 196.89 196.89 0 0 0 409.38 574.50 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path240" />
+    <path
+       d="M 403.50 611.78 L 392.56 681.29 A 305.00 305.00 0 0 1 374.39 677.86 L 389.53 609.15 A 234.64 234.64 0 0 0 403.50 611.78 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path241" />
+  </g>
+  <text
+     x="382.2"
+     y="686.6"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-79.3 382.2 686.6)"
+     id="text241">230</text>
+  <g
+     class="bar"
+     id="g246">
+    <title
+       id="title241">Plot 233 – Naturally disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 4.9%  pH 7.66  N 24.2 ppm  Ca 4780 ppm</title>
+    <path
+       d="M 424.27 448.21 L 419.45 469.09 A 91.42 91.42 0 0 1 414.09 467.68 L 420.16 447.13 A 70.00 70.00 0 0 0 424.27 448.21 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path242" />
+    <path
+       d="M 419.45 469.09 L 410.92 506.07 A 129.38 129.38 0 0 1 403.34 504.08 L 414.09 467.68 A 91.42 91.42 0 0 0 419.45 469.09 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path243" />
+    <path
+       d="M 410.92 506.07 L 392.27 586.93 A 212.37 212.37 0 0 1 379.82 583.66 L 403.34 504.08 A 129.38 129.38 0 0 0 410.92 506.07 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path244" />
+    <path
+       d="M 392.27 586.93 L 383.72 624.04 A 250.45 250.45 0 0 1 369.03 620.18 L 379.82 583.66 A 212.37 212.37 0 0 0 392.27 586.93 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path245" />
+    <path
+       d="M 383.72 624.04 L 371.46 677.20 A 305.00 305.00 0 0 1 353.57 672.50 L 369.03 620.18 A 250.45 250.45 0 0 0 383.72 624.04 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path246" />
+  </g>
+  <text
+     x="360.7"
+     y="681.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-75.3 360.7 681.8)"
+     id="text246">233</text>
+  <g
+     class="bar"
+     id="g251">
+    <title
+       id="title246">Plot 235 – Naturally disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 2.6%  pH 7.67  N 19.5 ppm  Ca 4200 ppm</title>
+    <path
+       d="M 419.50 446.93 L 417.49 453.51 A 76.88 76.88 0 0 1 413.08 452.01 L 415.49 445.57 A 70.00 70.00 0 0 0 419.50 446.93 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path247" />
+    <path
+       d="M 417.49 453.51 L 406.10 490.71 A 115.78 115.78 0 0 1 399.45 488.45 L 413.08 452.01 A 76.88 76.88 0 0 0 417.49 453.51 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path248" />
+    <path
+       d="M 406.10 490.71 L 379.61 577.21 A 206.25 206.25 0 0 1 367.77 573.19 L 399.45 488.45 A 115.78 115.78 0 0 0 406.10 490.71 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path249" />
+    <path
+       d="M 379.61 577.21 L 368.51 613.45 A 244.15 244.15 0 0 1 354.49 608.69 L 367.77 573.19 A 206.25 206.25 0 0 0 379.61 577.21 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path250" />
+    <path
+       d="M 368.51 613.45 L 350.69 671.63 A 305.00 305.00 0 0 1 333.19 665.68 L 354.49 608.69 A 244.15 244.15 0 0 0 368.51 613.45 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path251" />
+  </g>
+  <text
+     x="339.6"
+     y="675.4"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-71.2 339.6 675.4)"
+     id="text251">235</text>
+  <g
+     class="bar"
+     id="g256">
+    <title
+       id="title251">Plot 241 – Naturally disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 6.8%  pH 7.85  N 19.7 ppm  Ca 4920 ppm</title>
+    <path
+       d="M 414.84 445.32 L 405.01 470.85 A 97.35 97.35 0 0 1 399.57 468.56 L 410.93 443.68 A 70.00 70.00 0 0 0 414.84 445.32 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path252" />
+    <path
+       d="M 405.01 470.85 L 387.14 517.24 A 147.07 147.07 0 0 1 378.92 513.78 L 399.57 468.56 A 97.35 97.35 0 0 0 405.01 470.85 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path253" />
+    <path
+       d="M 387.14 517.24 L 352.51 607.15 A 243.42 243.42 0 0 1 338.90 601.43 L 378.92 513.78 A 147.07 147.07 0 0 0 387.14 517.24 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path254" />
+    <path
+       d="M 352.51 607.15 L 338.05 644.68 A 283.63 283.63 0 0 1 322.20 638.01 L 338.90 601.43 A 243.42 243.42 0 0 0 352.51 607.15 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path255" />
+    <path
+       d="M 338.05 644.68 L 330.37 664.62 A 305.00 305.00 0 0 1 313.33 657.45 L 322.20 638.01 A 283.63 283.63 0 0 0 338.05 644.68 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path256" />
+  </g>
+  <text
+     x="319.1"
+     y="667.6"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-67.2 319.1 667.6)"
+     id="text256">241</text>
+  <g
+     class="bar"
+     id="g261">
+    <title
+       id="title256">Plot 243 – Naturally disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 2.0%  pH 7.86  N 11.2 ppm  Ca 3420 ppm</title>
+    <path
+       d="M 410.30 443.39 L 399.27 466.92 A 95.99 95.99 0 0 1 394.08 464.30 L 406.51 441.47 A 70.00 70.00 0 0 0 410.30 443.39 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path257" />
+    <path
+       d="M 399.27 466.92 L 380.99 505.95 A 139.09 139.09 0 0 1 373.46 502.14 L 394.08 464.30 A 95.99 95.99 0 0 0 399.27 466.92 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path258" />
+    <path
+       d="M 380.99 505.95 L 338.68 596.24 A 238.80 238.80 0 0 1 325.77 589.70 L 373.46 502.14 A 139.09 139.09 0 0 0 380.99 505.95 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path259" />
+    <path
+       d="M 338.68 596.24 L 316.89 642.75 A 290.17 290.17 0 0 1 301.20 634.81 L 325.77 589.70 A 238.80 238.80 0 0 0 338.68 596.24 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path260" />
+    <path
+       d="M 316.89 642.75 L 310.60 656.19 A 305.00 305.00 0 0 1 294.10 647.84 L 301.20 634.81 A 290.17 290.17 0 0 0 316.89 642.75 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path261" />
+  </g>
+  <text
+     x="299.1"
+     y="658.4"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-63.2 299.1 658.4)"
+     id="text261">243</text>
+  <g
+     class="bar"
+     id="g266">
+    <title
+       id="title261">Plot 244 – Naturally disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 2.7%  pH 7.18  N 10.6 ppm  Ca 2250 ppm</title>
+    <path
+       d="M 405.91 441.14 L 392.24 465.66 A 98.07 98.07 0 0 1 387.14 462.60 L 402.27 438.96 A 70.00 70.00 0 0 0 405.91 441.14 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path262" />
+    <path
+       d="M 392.24 465.66 L 368.91 507.49 A 145.97 145.97 0 0 1 361.32 502.95 L 387.14 462.60 A 98.07 98.07 0 0 0 392.24 465.66 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path263" />
+    <path
+       d="M 368.91 507.49 L 325.60 585.16 A 234.90 234.90 0 0 1 313.38 577.85 L 361.32 502.95 A 145.97 145.97 0 0 0 368.91 507.49 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path264" />
+    <path
+       d="M 325.60 585.16 L 297.59 635.40 A 292.42 292.42 0 0 1 282.38 626.30 L 313.38 577.85 A 234.90 234.90 0 0 0 325.60 585.16 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path265" />
+    <path
+       d="M 297.59 635.40 L 291.46 646.39 A 305.00 305.00 0 0 1 275.60 636.90 L 282.38 626.30 A 292.42 292.42 0 0 0 297.59 635.40 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path266" />
+  </g>
+  <text
+     x="279.9"
+     y="647.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-59.1 279.9 647.8)"
+     id="text266">244</text>
+  <g
+     class="bar"
+     id="g271">
+    <title
+       id="title266">Plot 246 – Naturally disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 2.0%  pH 7.90  N 12.1 ppm  Ca 2530 ppm</title>
+    <path
+       d="M 401.69 438.58 L 393.87 450.53 A 84.28 84.28 0 0 1 389.68 447.61 L 398.21 436.16 A 70.00 70.00 0 0 0 401.69 438.58 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path267" />
+    <path
+       d="M 393.87 450.53 L 366.41 492.54 A 134.46 134.46 0 0 1 359.72 487.87 L 389.68 447.61 A 84.28 84.28 0 0 0 393.87 450.53 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path268" />
+    <path
+       d="M 366.41 492.54 L 316.21 569.29 A 226.17 226.17 0 0 1 304.97 561.44 L 359.72 487.87 A 134.46 134.46 0 0 0 366.41 492.54 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path269" />
+    <path
+       d="M 316.21 569.29 L 290.23 609.02 A 273.65 273.65 0 0 1 276.63 599.53 L 304.97 561.44 A 226.17 226.17 0 0 0 316.21 569.29 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path270" />
+    <path
+       d="M 290.23 609.02 L 273.07 635.26 A 305.00 305.00 0 0 1 257.91 624.68 L 276.63 599.53 A 273.65 273.65 0 0 0 290.23 609.02 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path271" />
+  </g>
+  <text
+     x="261.4"
+     y="635.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-55.1 261.4 635.8)"
+     id="text271">246</text>
+  <g
+     class="bar"
+     id="g276">
+    <title
+       id="title271">Plot 260 – Naturally disturbed
+Disturbance score 10/10  intensity 5/7
+Organic matter 69.4%  pH 4.63  N 29.3 ppm  Ca 4150 ppm</title>
+    <path
+       d="M 397.66 435.74 L 348.97 499.83 A 150.49 150.49 0 0 1 341.88 494.10 L 394.36 433.07 A 70.00 70.00 0 0 0 397.66 435.74 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path272" />
+    <path
+       d="M 348.97 499.83 L 339.48 512.32 A 166.17 166.17 0 0 1 331.65 505.99 L 341.88 494.10 A 150.49 150.49 0 0 0 348.97 499.83 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path273" />
+    <path
+       d="M 339.48 512.32 L 318.36 540.13 A 201.10 201.10 0 0 1 308.88 532.47 L 331.65 505.99 A 166.17 166.17 0 0 0 339.48 512.32 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path274" />
+    <path
+       d="M 318.36 540.13 L 267.19 607.49 A 285.68 285.68 0 0 1 253.72 596.60 L 308.88 532.47 A 201.10 201.10 0 0 0 318.36 540.13 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path275" />
+    <path
+       d="M 267.19 607.49 L 255.50 622.87 A 305.00 305.00 0 0 1 241.13 611.25 L 253.72 596.60 A 285.68 285.68 0 0 0 267.19 607.49 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path276" />
+  </g>
+  <text
+     x="243.8"
+     y="622.6"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-51.0 243.8 622.6)"
+     id="text276">260</text>
+  <g
+     class="bar"
+     id="g281">
+    <title
+       id="title276">Plot 186 – Anthropogenically disturbed
+Disturbance score 2/10  intensity 1/7
+Organic matter 14.9%  pH 7.68  N 16.3 ppm  Ca 4190 ppm</title>
+    <path
+       d="M 391.26 430.25 L 386.20 435.47 A 77.28 77.28 0 0 1 382.93 432.11 L 388.31 427.20 A 70.00 70.00 0 0 0 391.26 430.25 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path277" />
+    <path
+       d="M 386.20 435.47 L 381.12 440.71 A 84.58 84.58 0 0 1 377.55 437.03 L 382.93 432.11 A 77.28 77.28 0 0 0 386.20 435.47 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path278" />
+    <path
+       d="M 381.12 440.71 L 370.28 451.88 A 100.13 100.13 0 0 1 366.06 447.52 L 377.55 437.03 A 84.58 84.58 0 0 0 381.12 440.71 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path279" />
+    <path
+       d="M 370.28 451.88 L 366.03 456.26 A 106.24 106.24 0 0 1 361.55 451.64 L 366.06 447.52 A 100.13 100.13 0 0 0 370.28 451.88 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path280" />
+    <path
+       d="M 366.03 456.26 L 358.54 463.98 A 117.00 117.00 0 0 1 353.60 458.89 L 361.55 451.64 A 106.24 106.24 0 0 0 366.03 456.26 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path281" />
+  </g>
+  <text
+     x="351.0"
+     y="466.4"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-44.1 351.0 466.4)"
+     id="text281">186</text>
+  <g
+     class="bar"
+     id="g286">
+    <title
+       id="title281">Plot 75 – Anthropogenically disturbed
+Disturbance score 3/10  intensity 2/7
+Organic matter 18.8%  pH 6.56  N 23.5 ppm  Ca 2000 ppm</title>
+    <path
+       d="M 387.84 426.69 L 374.41 438.72 A 88.04 88.04 0 0 1 370.97 434.64 L 385.11 423.44 A 70.00 70.00 0 0 0 387.84 426.69 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path282" />
+    <path
+       d="M 374.41 438.72 L 365.18 446.98 A 100.42 100.42 0 0 1 361.26 442.32 L 370.97 434.64 A 88.04 88.04 0 0 0 374.41 438.72 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path283" />
+    <path
+       d="M 365.18 446.98 L 352.71 458.14 A 117.16 117.16 0 0 1 348.14 452.71 L 361.26 442.32 A 100.42 100.42 0 0 0 365.18 446.98 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path284" />
+    <path
+       d="M 352.71 458.14 L 342.40 467.37 A 131.00 131.00 0 0 1 337.28 461.30 L 348.14 452.71 A 117.16 117.16 0 0 0 352.71 458.14 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path285" />
+    <path
+       d="M 342.40 467.37 L 335.32 473.71 A 140.50 140.50 0 0 1 329.83 467.20 L 337.28 461.30 A 131.00 131.00 0 0 0 342.40 467.37 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path286" />
+  </g>
+  <text
+     x="327.2"
+     y="475.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-40.1 327.2 475.0)"
+     id="text286">75</text>
+  <g
+     class="bar"
+     id="g291">
+    <title
+       id="title286">Plot 121 – Anthropogenically disturbed
+Disturbance score 6/10  intensity 3/7
+Organic matter 73.0%  pH 6.67  N 48.4 ppm  Ca 10560 ppm</title>
+    <path
+       d="M 384.69 422.90 L 337.32 459.64 A 129.94 129.94 0 0 1 332.68 453.27 L 382.19 419.47 A 70.00 70.00 0 0 0 384.69 422.90 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path287" />
+    <path
+       d="M 337.32 459.64 L 327.58 467.19 A 142.27 142.27 0 0 1 322.50 460.22 L 332.68 453.27 A 129.94 129.94 0 0 0 337.32 459.64 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path288" />
+    <path
+       d="M 327.58 467.19 L 297.05 490.86 A 180.90 180.90 0 0 1 290.60 482.00 L 322.50 460.22 A 142.27 142.27 0 0 0 327.58 467.19 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path289" />
+    <path
+       d="M 297.05 490.86 L 284.88 500.31 A 196.31 196.31 0 0 1 277.87 490.69 L 290.60 482.00 A 180.90 180.90 0 0 0 297.05 490.86 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path290" />
+    <path
+       d="M 284.88 500.31 L 273.27 509.31 A 211.00 211.00 0 0 1 265.74 498.97 L 277.87 490.69 A 196.31 196.31 0 0 0 284.88 500.31 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path291" />
+  </g>
+  <text
+     x="263.8"
+     y="508.3"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-36.1 263.8 508.3)"
+     id="text291">121</text>
+  <g
+     class="bar"
+     id="g296">
+    <title
+       id="title291">Plot 90 – Anthropogenically disturbed
+Disturbance score 7/10  intensity 4/7
+Organic matter 4.7%  pH 6.19  N 19.5 ppm  Ca 2360 ppm</title>
+    <path
+       d="M 381.80 418.90 L 360.36 433.23 A 95.79 95.79 0 0 1 357.28 428.30 L 379.55 415.30 A 70.00 70.00 0 0 0 381.80 418.90 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path292" />
+    <path
+       d="M 360.36 433.23 L 333.23 451.36 A 128.43 128.43 0 0 1 329.10 444.76 L 357.28 428.30 A 95.79 95.79 0 0 0 360.36 433.23 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path293" />
+    <path
+       d="M 333.23 451.36 L 290.01 480.25 A 180.41 180.41 0 0 1 284.21 470.97 L 329.10 444.76 A 128.43 128.43 0 0 0 333.23 451.36 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path294" />
+    <path
+       d="M 290.01 480.25 L 255.22 503.50 A 222.25 222.25 0 0 1 248.08 492.07 L 284.21 470.97 A 180.41 180.41 0 0 0 290.01 480.25 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path295" />
+    <path
+       d="M 255.22 503.50 L 245.03 510.30 A 234.50 234.50 0 0 1 237.50 498.25 L 248.08 492.07 A 222.25 222.25 0 0 0 255.22 503.50 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path296" />
+  </g>
+  <text
+     x="235.2"
+     y="508.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-32.0 235.2 508.0)"
+     id="text296">90</text>
+  <g
+     class="bar"
+     id="g301">
+    <title
+       id="title296">Plot 124 – Anthropogenically disturbed
+Disturbance score 7/10  intensity 4/7
+Organic matter 3.9%  pH 7.92  N 10.9 ppm  Ca 4820 ppm</title>
+    <path
+       d="M 379.21 414.70 L 369.09 420.47 A 81.65 81.65 0 0 1 366.77 416.10 L 377.22 410.95 A 70.00 70.00 0 0 0 379.21 414.70 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path297" />
+    <path
+       d="M 369.09 420.47 L 346.19 433.54 A 108.01 108.01 0 0 1 343.12 427.76 L 366.77 416.10 A 81.65 81.65 0 0 0 369.09 420.47 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path298" />
+    <path
+       d="M 346.19 433.54 L 291.55 464.74 A 170.94 170.94 0 0 1 286.68 455.59 L 343.12 427.76 A 108.01 108.01 0 0 0 346.19 433.54 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path299" />
+    <path
+       d="M 291.55 464.74 L 271.11 476.40 A 194.46 194.46 0 0 1 265.58 465.99 L 286.68 455.59 A 170.94 170.94 0 0 0 291.55 464.74 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path300" />
+    <path
+       d="M 271.11 476.40 L 236.34 496.25 A 234.50 234.50 0 0 1 229.67 483.69 L 265.58 465.99 A 194.46 194.46 0 0 0 271.11 476.40 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path301" />
+  </g>
+  <text
+     x="226.7"
+     y="493.3"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-28.0 226.7 493.3)"
+     id="text301">124</text>
+  <g
+     class="bar"
+     id="g306">
+    <title
+       id="title301">Plot 74 – Anthropogenically disturbed
+Disturbance score 8/10  intensity 5/7
+Organic matter 16.1%  pH 7.41  N 12.4 ppm  Ca 3580 ppm</title>
+    <path
+       d="M 376.91 410.33 L 345.10 425.63 A 105.30 105.30 0 0 1 342.51 419.80 L 375.19 406.45 A 70.00 70.00 0 0 0 376.91 410.33 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path302" />
+    <path
+       d="M 345.10 425.63 L 318.92 438.21 A 134.34 134.34 0 0 1 315.62 430.77 L 342.51 419.80 A 105.30 105.30 0 0 0 345.10 425.63 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path303" />
+    <path
+       d="M 318.92 438.21 L 264.89 464.19 A 194.29 194.29 0 0 1 260.12 453.43 L 315.62 430.77 A 134.34 134.34 0 0 0 318.92 438.21 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path304" />
+    <path
+       d="M 264.89 464.19 L 237.86 477.19 A 224.30 224.30 0 0 1 232.34 464.76 L 260.12 453.43 A 194.29 194.29 0 0 0 264.89 464.19 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path305" />
+    <path
+       d="M 237.86 477.19 L 207.48 491.80 A 258.00 258.00 0 0 1 201.13 477.50 L 232.34 464.76 A 224.30 224.30 0 0 0 237.86 477.19 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path306" />
+  </g>
+  <text
+     x="197.8"
+     y="487.5"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-23.9 197.8 487.5)"
+     id="text306">74</text>
+  <g
+     class="bar"
+     id="g311">
+    <title
+       id="title306">Plot 81 – Anthropogenically disturbed
+Disturbance score 8/10  intensity 5/7
+Organic matter 11.5%  pH 5.83  N 25.7 ppm  Ca 2610 ppm</title>
+    <path
+       d="M 374.93 405.81 L 333.63 422.20 A 114.44 114.44 0 0 1 331.26 415.68 L 373.49 401.82 A 70.00 70.00 0 0 0 374.93 405.81 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path307" />
+    <path
+       d="M 333.63 422.20 L 298.38 436.18 A 152.36 152.36 0 0 1 295.24 427.50 L 331.26 415.68 A 114.44 114.44 0 0 0 333.63 422.20 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path308" />
+    <path
+       d="M 298.38 436.18 L 251.42 454.81 A 202.88 202.88 0 0 1 247.23 443.25 L 295.24 427.50 A 152.36 152.36 0 0 0 298.38 436.18 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path309" />
+    <path
+       d="M 251.42 454.81 L 208.70 471.76 A 248.84 248.84 0 0 1 203.56 457.58 L 247.23 443.25 A 202.88 202.88 0 0 0 251.42 454.81 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path310" />
+    <path
+       d="M 208.70 471.76 L 200.18 475.14 A 258.00 258.00 0 0 1 194.86 460.43 L 203.56 457.58 A 248.84 248.84 0 0 0 208.70 471.76 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path311" />
+  </g>
+  <text
+     x="190.8"
+     y="470.2"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-19.9 190.8 470.2)"
+     id="text311">81</text>
+  <g
+     class="bar"
+     id="g316">
+    <title
+       id="title311">Plot 88 – Anthropogenically disturbed
+Disturbance score 8/10  intensity 5/7
+Organic matter 41.0%  pH 6.59  N 62.7 ppm  Ca 4220 ppm</title>
+    <path
+       d="M 373.28 401.17 L 316.36 419.22 A 129.72 129.72 0 0 1 314.21 411.66 L 372.12 397.08 A 70.00 70.00 0 0 0 373.28 401.17 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path312" />
+    <path
+       d="M 316.36 419.22 L 286.17 428.80 A 161.38 161.38 0 0 1 283.50 419.39 L 314.21 411.66 A 129.72 129.72 0 0 0 316.36 419.22 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path313" />
+    <path
+       d="M 286.17 428.80 L 235.94 444.73 A 214.08 214.08 0 0 1 232.40 432.25 L 283.50 419.39 A 161.38 161.38 0 0 0 286.17 428.80 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path314" />
+    <path
+       d="M 235.94 444.73 L 212.97 452.02 A 238.18 238.18 0 0 1 209.02 438.13 L 232.40 432.25 A 214.08 214.08 0 0 0 235.94 444.73 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path315" />
+    <path
+       d="M 212.97 452.02 L 194.08 458.01 A 258.00 258.00 0 0 1 189.80 442.97 L 209.02 438.13 A 238.18 238.18 0 0 0 212.97 452.02 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path316" />
+  </g>
+  <text
+     x="185.1"
+     y="452.4"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-15.9 185.1 452.4)"
+     id="text316">88</text>
+  <g
+     class="bar"
+     id="g321">
+    <title
+       id="title316">Plot 89 – Anthropogenically disturbed
+Disturbance score 8/10  intensity 5/7
+Organic matter 56.6%  pH 6.58  N 45.7 ppm  Ca 9130 ppm</title>
+    <path
+       d="M 371.95 396.41 L 289.95 416.19 A 154.36 154.36 0 0 1 288.03 407.03 L 371.08 392.26 A 70.00 70.00 0 0 0 371.95 396.41 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path317" />
+    <path
+       d="M 289.95 416.19 L 272.50 420.40 A 172.30 172.30 0 0 1 270.36 410.18 L 288.03 407.03 A 154.36 154.36 0 0 0 289.95 416.19 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path318" />
+    <path
+       d="M 272.50 420.40 L 216.50 433.91 A 229.91 229.91 0 0 1 213.64 420.27 L 270.36 410.18 A 172.30 172.30 0 0 0 272.50 420.40 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path319" />
+    <path
+       d="M 216.50 433.91 L 208.24 435.90 A 238.41 238.41 0 0 1 205.27 421.76 L 213.64 420.27 A 229.91 229.91 0 0 0 216.50 433.91 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path320" />
+    <path
+       d="M 208.24 435.90 L 189.19 440.49 A 258.00 258.00 0 0 1 185.99 425.19 L 205.27 421.76 A 238.41 238.41 0 0 0 208.24 435.90 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path321" />
+  </g>
+  <text
+     x="180.6"
+     y="434.3"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-11.8 180.6 434.3)"
+     id="text321">89</text>
+  <g
+     class="bar"
+     id="g326">
+    <title
+       id="title321">Plot 120 – Anthropogenically disturbed
+Disturbance score 8/10  intensity 5/7
+Organic matter 12.2%  pH 5.96  N 26.7 ppm  Ca 4380 ppm</title>
+    <path
+       d="M 370.96 391.58 L 326.10 399.10 A 115.49 115.49 0 0 1 325.15 392.17 L 370.39 387.38 A 70.00 70.00 0 0 0 370.96 391.58 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path322" />
+    <path
+       d="M 326.10 399.10 L 294.77 404.36 A 147.26 147.26 0 0 1 293.56 395.52 L 325.15 392.17 A 115.49 115.49 0 0 0 326.10 399.10 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path323" />
+    <path
+       d="M 294.77 404.36 L 240.00 413.55 A 202.79 202.79 0 0 1 238.33 401.37 L 293.56 395.52 A 147.26 147.26 0 0 0 294.77 404.36 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path324" />
+    <path
+       d="M 240.00 413.55 L 200.83 420.12 A 242.51 242.51 0 0 1 198.84 405.55 L 238.33 401.37 A 202.79 202.79 0 0 0 240.00 413.55 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path325" />
+    <path
+       d="M 200.83 420.12 L 185.55 422.68 A 258.00 258.00 0 0 1 183.44 407.18 L 198.84 405.55 A 242.51 242.51 0 0 0 200.83 420.12 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path326" />
+  </g>
+  <text
+     x="177.4"
+     y="415.9"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-7.8 177.4 415.9)"
+     id="text326">120</text>
+  <g
+     class="bar"
+     id="g331">
+    <title
+       id="title326">Plot 126 – Anthropogenically disturbed
+Disturbance score 8/10  intensity 5/7
+Organic matter 6.2%  pH 7.70  N 14.3 ppm  Ca 5400 ppm</title>
+    <path
+       d="M 370.32 386.69 L 355.44 388.12 A 84.95 84.95 0 0 1 355.11 382.98 L 370.04 382.45 A 70.00 70.00 0 0 0 370.32 386.69 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path327" />
+    <path
+       d="M 355.44 388.12 L 327.78 390.77 A 112.73 112.73 0 0 1 327.33 383.95 L 355.11 382.98 A 84.95 84.95 0 0 0 355.44 388.12 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path328" />
+    <path
+       d="M 327.78 390.77 L 261.40 397.14 A 179.42 179.42 0 0 1 260.69 386.29 L 327.33 383.95 A 112.73 112.73 0 0 0 327.78 390.77 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path329" />
+    <path
+       d="M 261.40 397.14 L 236.16 399.56 A 204.77 204.77 0 0 1 235.35 387.18 L 260.69 386.29 A 179.42 179.42 0 0 0 261.40 397.14 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path330" />
+    <path
+       d="M 236.16 399.56 L 183.18 404.65 A 258.00 258.00 0 0 1 182.16 389.04 L 235.35 387.18 A 204.77 204.77 0 0 0 236.16 399.56 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path331" />
+  </g>
+  <text
+     x="175.6"
+     y="397.3"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(-3.7 175.6 397.3)"
+     id="text331">126</text>
+  <g
+     class="bar"
+     id="g336">
+    <title
+       id="title331">Plot 193 – Anthropogenically disturbed
+Disturbance score 8/10  intensity 5/7
+Organic matter 26.0%  pH 7.47  N 20.3 ppm  Ca 7960 ppm</title>
+    <path
+       d="M 370.02 381.76 L 320.58 383.01 A 119.45 119.45 0 0 1 320.62 375.77 L 370.04 377.52 A 70.00 70.00 0 0 0 370.02 381.76 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path332" />
+    <path
+       d="M 320.58 383.01 L 301.06 383.50 A 138.98 138.98 0 0 1 301.11 375.08 L 320.62 375.77 A 119.45 119.45 0 0 0 320.58 383.01 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path333" />
+    <path
+       d="M 301.06 383.50 L 233.86 385.19 A 206.20 206.20 0 0 1 233.93 372.69 L 301.11 375.08 A 138.98 138.98 0 0 0 301.06 383.50 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path334" />
+    <path
+       d="M 233.86 385.19 L 219.75 385.55 A 220.32 220.32 0 0 1 219.82 372.19 L 233.93 372.69 A 206.20 206.20 0 0 0 233.86 385.19 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path335" />
+    <path
+       d="M 219.75 385.55 L 182.08 386.50 A 258.00 258.00 0 0 1 182.16 370.86 L 219.82 372.19 A 220.32 220.32 0 0 0 219.75 385.55 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path336" />
+  </g>
+  <text
+     x="175.0"
+     y="378.6"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(0.3 175.0 378.6)"
+     id="text336">193</text>
+  <g
+     class="bar"
+     id="g341">
+    <title
+       id="title336">Plot 70 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 16.9%  pH 7.79  N 858.0 ppm  Ca 3100 ppm</title>
+    <path
+       d="M 370.07 376.83 L 336.31 375.30 A 103.80 103.80 0 0 1 336.78 369.02 L 370.39 372.60 A 70.00 70.00 0 0 0 370.07 376.83 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path337" />
+    <path
+       d="M 336.31 375.30 L 197.28 369.00 A 242.97 242.97 0 0 1 198.40 354.31 L 336.78 369.02 A 103.80 103.80 0 0 0 336.31 375.30 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path338" />
+    <path
+       d="M 197.28 369.00 L 184.75 368.43 A 255.51 255.51 0 0 1 185.92 352.98 L 198.40 354.31 A 242.97 242.97 0 0 0 197.28 369.00 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path339" />
+    <path
+       d="M 184.75 368.43 L 180.36 368.23 A 259.91 259.91 0 0 1 181.55 352.52 L 185.92 352.98 A 255.51 255.51 0 0 0 184.75 368.43 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path340" />
+    <path
+       d="M 180.36 368.23 L 158.79 367.25 A 281.50 281.50 0 0 1 160.08 350.24 L 181.55 352.52 A 259.91 259.91 0 0 0 180.36 368.23 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path341" />
+  </g>
+  <text
+     x="152.3"
+     y="358.2"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(4.3 152.3 358.2)"
+     id="text341">70</text>
+  <g
+     class="bar"
+     id="g346">
+    <title
+       id="title341">Plot 71 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 53.5%  pH 6.71  N 114.3 ppm  Ca 7180 ppm</title>
+    <path
+       d="M 370.47 371.91 L 293.08 362.91 A 147.91 147.91 0 0 1 294.38 354.04 L 371.09 367.71 A 70.00 70.00 0 0 0 370.47 371.91 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path342" />
+    <path
+       d="M 293.08 362.91 L 242.62 357.04 A 198.71 198.71 0 0 1 244.37 345.12 L 294.38 354.04 A 147.91 147.91 0 0 0 293.08 362.91 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path343" />
+    <path
+       d="M 242.62 357.04 L 180.51 349.81 A 261.24 261.24 0 0 1 182.81 334.15 L 244.37 345.12 A 198.71 198.71 0 0 0 242.62 357.04 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path344" />
+    <path
+       d="M 180.51 349.81 L 168.22 348.39 A 273.61 273.61 0 0 1 170.63 331.98 L 182.81 334.15 A 261.24 261.24 0 0 0 180.51 349.81 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path345" />
+    <path
+       d="M 168.22 348.39 L 160.39 347.47 A 281.50 281.50 0 0 1 162.87 330.59 L 170.63 331.98 A 273.61 273.61 0 0 0 168.22 348.39 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path346" />
+  </g>
+  <text
+     x="154.6"
+     y="338.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(8.4 154.6 338.0)"
+     id="text346">71</text>
+  <g
+     class="bar"
+     id="g351">
+    <title
+       id="title346">Plot 72 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 11.9%  pH 7.57  N 40.4 ppm  Ca 4080 ppm</title>
+    <path
+       d="M 371.21 367.03 L 349.55 362.95 A 92.04 92.04 0 0 1 350.75 357.50 L 372.12 362.89 A 70.00 70.00 0 0 0 371.21 367.03 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path347" />
+    <path
+       d="M 349.55 362.95 L 308.07 355.13 A 134.25 134.25 0 0 1 309.82 347.19 L 350.75 357.50 A 92.04 92.04 0 0 0 349.55 362.95 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path348" />
+    <path
+       d="M 308.07 355.13 L 245.12 343.27 A 198.31 198.31 0 0 1 247.71 331.53 L 309.82 347.19 A 134.25 134.25 0 0 0 308.07 355.13 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path349" />
+    <path
+       d="M 245.12 343.27 L 201.60 335.07 A 242.59 242.59 0 0 1 204.76 320.70 L 247.71 331.53 A 198.31 198.31 0 0 0 245.12 343.27 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path350" />
+    <path
+       d="M 201.60 335.07 L 163.37 327.86 A 281.50 281.50 0 0 1 167.04 311.19 L 204.76 320.70 A 242.59 242.59 0 0 0 201.60 335.07 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path351" />
+  </g>
+  <text
+     x="158.2"
+     y="318.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(12.4 158.2 318.0)"
+     id="text351">72</text>
+  <g
+     class="bar"
+     id="g356">
+    <title
+       id="title351">Plot 77 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 12.6%  pH 6.47  N 18.3 ppm  Ca 3920 ppm</title>
+    <path
+       d="M 372.30 362.22 L 323.55 349.42 A 120.39 120.39 0 0 1 325.62 342.42 L 373.50 358.15 A 70.00 70.00 0 0 0 372.30 362.22 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path352" />
+    <path
+       d="M 323.55 349.42 L 287.56 339.97 A 157.61 157.61 0 0 1 290.26 330.81 L 325.62 342.42 A 120.39 120.39 0 0 0 323.55 349.42 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path353" />
+    <path
+       d="M 287.56 339.97 L 220.34 322.32 A 227.10 227.10 0 0 1 224.24 309.12 L 290.26 330.81 A 157.61 157.61 0 0 0 287.56 339.97 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path354" />
+    <path
+       d="M 220.34 322.32 L 183.22 312.57 A 265.49 265.49 0 0 1 187.77 297.14 L 224.24 309.12 A 227.10 227.10 0 0 0 220.34 322.32 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path355" />
+    <path
+       d="M 183.22 312.57 L 167.73 308.50 A 281.50 281.50 0 0 1 172.56 292.14 L 187.77 297.14 A 265.49 265.49 0 0 0 183.22 312.57 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path356" />
+  </g>
+  <text
+     x="163.3"
+     y="298.3"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(16.5 163.3 298.3)"
+     id="text356">77</text>
+  <g
+     class="bar"
+     id="g361">
+    <title
+       id="title356">Plot 79 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 3.5%  pH 7.72  N 15.9 ppm  Ca 4450 ppm</title>
+    <path
+       d="M 373.72 357.50 L 358.77 352.42 A 85.79 85.79 0 0 1 360.59 347.55 L 375.20 353.52 A 70.00 70.00 0 0 0 373.72 357.50 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path357" />
+    <path
+       d="M 358.77 352.42 L 324.25 340.70 A 122.24 122.24 0 0 1 326.84 333.76 L 360.59 347.55 A 85.79 85.79 0 0 0 358.77 352.42 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path358" />
+    <path
+       d="M 324.25 340.70 L 246.96 314.46 A 203.86 203.86 0 0 1 251.28 302.89 L 326.84 333.76 A 122.24 122.24 0 0 0 324.25 340.70 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path359" />
+    <path
+       d="M 246.96 314.46 L 212.06 302.62 A 240.71 240.71 0 0 1 217.17 288.95 L 251.28 302.89 A 203.86 203.86 0 0 0 246.96 314.46 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path360" />
+    <path
+       d="M 212.06 302.62 L 173.44 289.50 A 281.50 281.50 0 0 1 179.42 273.52 L 217.17 288.95 A 240.71 240.71 0 0 0 212.06 302.62 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path361" />
+  </g>
+  <text
+     x="169.8"
+     y="279.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(20.5 169.8 279.0)"
+     id="text361">79</text>
+  <g
+     class="bar"
+     id="g366">
+    <title
+       id="title361">Plot 80 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 5.4%  pH 7.77  N 21.0 ppm  Ca 4700 ppm</title>
+    <path
+       d="M 375.47 352.88 L 357.39 345.29 A 89.61 89.61 0 0 1 359.64 340.34 L 377.23 349.02 A 70.00 70.00 0 0 0 375.47 352.88 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path362" />
+    <path
+       d="M 357.39 345.29 L 326.55 332.33 A 123.06 123.06 0 0 1 329.65 325.54 L 359.64 340.34 A 89.61 89.61 0 0 0 357.39 345.29 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path363" />
+    <path
+       d="M 326.55 332.33 L 265.11 306.51 A 189.70 189.70 0 0 1 269.89 296.05 L 329.65 325.54 A 123.06 123.06 0 0 0 326.55 332.33 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path364" />
+    <path
+       d="M 265.11 306.51 L 213.64 284.89 A 245.53 245.53 0 0 1 219.82 271.35 L 269.89 296.05 A 189.70 189.70 0 0 0 265.11 306.51 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path365" />
+    <path
+       d="M 213.64 284.89 L 180.48 270.95 A 281.50 281.50 0 0 1 187.56 255.43 L 219.82 271.35 A 245.53 245.53 0 0 0 213.64 284.89 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path366" />
+  </g>
+  <text
+     x="177.5"
+     y="260.2"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(24.5 177.5 260.2)"
+     id="text366">80</text>
+  <g
+     class="bar"
+     id="g371">
+    <title
+       id="title366">Plot 85 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 57.2%  pH 5.40  N 38.5 ppm  Ca 3800 ppm</title>
+    <path
+       d="M 377.54 348.41 L 284.74 301.47 A 174.00 174.00 0 0 1 289.78 292.20 L 379.57 344.68 A 70.00 70.00 0 0 0 377.54 348.41 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path367" />
+    <path
+       d="M 284.74 301.47 L 261.15 289.54 A 200.42 200.42 0 0 1 266.96 278.87 L 289.78 292.20 A 174.00 174.00 0 0 0 284.74 301.47 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path368" />
+    <path
+       d="M 261.15 289.54 L 223.54 270.51 A 242.57 242.57 0 0 1 230.57 257.60 L 266.96 278.87 A 200.42 200.42 0 0 0 261.15 289.54 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path369" />
+    <path
+       d="M 223.54 270.51 L 202.04 259.64 A 266.67 266.67 0 0 1 209.77 245.44 L 230.57 257.60 A 242.57 242.57 0 0 0 223.54 270.51 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path370" />
+    <path
+       d="M 202.04 259.64 L 188.81 252.94 A 281.50 281.50 0 0 1 196.97 237.96 L 209.77 245.44 A 266.67 266.67 0 0 0 202.04 259.64 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path371" />
+  </g>
+  <text
+     x="186.6"
+     y="242.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(28.6 186.6 242.0)"
+     id="text371">85</text>
+  <g
+     class="bar"
+     id="g375">
+    <title
+       id="title371">Plot 86 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 30.4%  pH 6.60  N 62.4 ppm  Ca 5570 ppm</title>
+    <path
+       d="M 379.92 344.08 L 321.21 308.99 A 138.39 138.39 0 0 1 325.73 301.92 L 382.20 340.51 A 70.00 70.00 0 0 0 379.92 344.08 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path372" />
+    <path
+       d="M 321.21 308.99 L 281.80 285.43 A 184.31 184.31 0 0 1 287.82 276.02 L 325.73 301.92 A 138.39 138.39 0 0 0 321.21 308.99 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path373" />
+    <path
+       d="M 281.80 285.43 L 215.42 245.75 A 261.65 261.65 0 0 1 223.97 232.39 L 287.82 276.02 A 184.31 184.31 0 0 0 281.80 285.43 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path374" />
+    <path
+       d="M 215.42 245.75 L 198.38 235.56 A 281.50 281.50 0 0 1 207.57 221.19 L 223.97 232.39 A 261.65 261.65 0 0 0 215.42 245.75 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path375" />
+  </g>
+  <text
+     x="197.0"
+     y="224.5"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(32.6 197.0 224.5)"
+     id="text375">86</text>
+  <g
+     class="bar"
+     id="g380">
+    <title
+       id="title375">Plot 102 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 7.6%  pH 8.05  N 19.5 ppm  Ca 5100 ppm</title>
+    <path
+       d="M 382.60 339.94 L 368.85 330.35 A 86.76 86.76 0 0 1 371.99 326.13 L 385.13 336.54 A 70.00 70.00 0 0 0 382.60 339.94 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path376" />
+    <path
+       d="M 368.85 330.35 L 339.03 309.54 A 123.13 123.13 0 0 1 343.48 303.55 L 371.99 326.13 A 86.76 86.76 0 0 0 368.85 330.35 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path377" />
+    <path
+       d="M 339.03 309.54 L 273.34 263.70 A 203.22 203.22 0 0 1 280.70 253.82 L 343.48 303.55 A 123.13 123.13 0 0 0 339.03 309.54 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path378" />
+    <path
+       d="M 273.34 263.70 L 250.90 248.04 A 230.59 230.59 0 0 1 259.25 236.82 L 280.70 253.82 A 203.22 203.22 0 0 0 273.34 263.70 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path379" />
+    <path
+       d="M 250.90 248.04 L 209.15 218.90 A 281.50 281.50 0 0 1 219.34 205.21 L 259.25 236.82 A 230.59 230.59 0 0 0 250.90 248.04 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path380" />
+  </g>
+  <text
+     x="208.5"
+     y="207.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(36.6 208.5 207.8)"
+     id="text380">102</text>
+  <g
+     class="bar"
+     id="g385">
+    <title
+       id="title380">Plot 127 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 5.7%  pH 7.16  N 13.5 ppm  Ca 3210 ppm</title>
+    <path
+       d="M 385.56 336.00 L 357.09 312.99 A 106.60 106.60 0 0 1 361.31 308.09 L 388.33 332.78 A 70.00 70.00 0 0 0 385.56 336.00 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path381" />
+    <path
+       d="M 357.09 312.99 L 324.68 286.79 A 148.28 148.28 0 0 1 330.54 279.98 L 361.31 308.09 A 106.60 106.60 0 0 0 357.09 312.99 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path382" />
+    <path
+       d="M 324.68 286.79 L 265.04 238.58 A 224.97 224.97 0 0 1 273.93 228.24 L 330.54 279.98 A 148.28 148.28 0 0 0 324.68 286.79 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path383" />
+    <path
+       d="M 265.04 238.58 L 232.81 212.53 A 266.41 266.41 0 0 1 243.34 200.28 L 273.93 228.24 A 224.97 224.97 0 0 0 265.04 238.58 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path384" />
+    <path
+       d="M 232.81 212.53 L 221.07 203.04 A 281.50 281.50 0 0 1 232.20 190.10 L 243.34 200.28 A 266.41 266.41 0 0 0 232.81 212.53 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path385" />
+  </g>
+  <text
+     x="221.2"
+     y="191.9"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(40.7 221.2 191.9)"
+     id="text385">127</text>
+  <g
+     class="bar"
+     id="g390">
+    <title
+       id="title385">Plot 129 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 13.4%  pH 7.78  N 20.1 ppm  Ca 6910 ppm</title>
+    <path
+       d="M 388.79 332.27 L 363.89 309.05 A 104.05 104.05 0 0 1 368.32 304.57 L 391.78 329.26 A 70.00 70.00 0 0 0 388.79 332.27 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path386" />
+    <path
+       d="M 363.89 309.05 L 341.41 288.10 A 134.78 134.78 0 0 1 347.16 282.30 L 368.32 304.57 A 104.05 104.05 0 0 0 363.89 309.05 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path387" />
+    <path
+       d="M 341.41 288.10 L 284.22 234.80 A 212.96 212.96 0 0 1 293.30 225.62 L 347.16 282.30 A 134.78 134.78 0 0 0 341.41 288.10 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path388" />
+    <path
+       d="M 284.22 234.80 L 267.43 219.14 A 235.91 235.91 0 0 1 277.49 208.98 L 293.30 225.62 A 212.96 212.96 0 0 0 284.22 234.80 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path389" />
+    <path
+       d="M 267.43 219.14 L 234.08 188.06 A 281.50 281.50 0 0 1 246.09 175.94 L 277.49 208.98 A 235.91 235.91 0 0 0 267.43 219.14 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path390" />
+  </g>
+  <text
+     x="235.0"
+     y="177.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(44.7 235.0 177.0)"
+     id="text390">129</text>
+  <g
+     class="bar"
+     id="g395">
+    <title
+       id="title390">Plot 137 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 4.4%  pH 7.96  N 11.7 ppm  Ca 2940 ppm</title>
+    <path
+       d="M 392.28 328.78 L 386.43 322.50 A 78.59 78.59 0 0 1 390.01 319.36 L 395.47 325.99 A 70.00 70.00 0 0 0 392.28 328.78 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path391" />
+    <path
+       d="M 386.43 322.50 L 366.60 301.21 A 107.68 107.68 0 0 1 371.51 296.91 L 390.01 319.36 A 78.59 78.59 0 0 0 386.43 322.50 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path392" />
+    <path
+       d="M 366.60 301.21 L 333.04 265.20 A 156.91 156.91 0 0 1 340.20 258.93 L 371.51 296.91 A 107.68 107.68 0 0 0 366.60 301.21 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path393" />
+    <path
+       d="M 333.04 265.20 L 276.95 204.99 A 239.20 239.20 0 0 1 287.85 195.43 L 340.20 258.93 A 156.91 156.91 0 0 0 333.04 265.20 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path394" />
+    <path
+       d="M 276.95 204.99 L 248.11 174.04 A 281.50 281.50 0 0 1 260.94 162.79 L 287.85 195.43 A 239.20 239.20 0 0 0 276.95 204.99 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path395" />
+  </g>
+  <text
+     x="249.8"
+     y="163.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(48.8 249.8 163.0)"
+     id="text395">137</text>
+  <g
+     class="bar"
+     id="g400">
+    <title
+       id="title395">Plot 188 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 19.0%  pH 7.69  N 17.0 ppm  Ca 5370 ppm</title>
+    <path
+       d="M 396.01 325.55 L 366.99 289.63 A 116.18 116.18 0 0 1 372.60 285.37 L 399.39 322.98 A 70.00 70.00 0 0 0 396.01 325.55 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path396" />
+    <path
+       d="M 366.99 289.63 L 347.41 265.39 A 147.33 147.33 0 0 1 354.52 259.99 L 372.60 285.37 A 116.18 116.18 0 0 0 366.99 289.63 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path397" />
+    <path
+       d="M 347.41 265.39 L 298.87 205.30 A 224.58 224.58 0 0 1 309.71 197.07 L 354.52 259.99 A 147.33 147.33 0 0 0 347.41 265.39 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path398" />
+    <path
+       d="M 298.87 205.30 L 285.04 188.19 A 246.59 246.59 0 0 1 296.95 179.15 L 309.71 197.07 A 224.58 224.58 0 0 0 298.87 205.30 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path399" />
+    <path
+       d="M 285.04 188.19 L 263.10 161.03 A 281.50 281.50 0 0 1 276.69 150.71 L 296.95 179.15 A 246.59 246.59 0 0 0 285.04 188.19 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path400" />
+  </g>
+  <text
+     x="265.6"
+     y="150.2"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(52.8 265.6 150.2)"
+     id="text400">188</text>
+  <g
+     class="bar"
+     id="g405">
+    <title
+       id="title400">Plot 192 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 46.2%  pH 7.16  N 27.9 ppm  Ca 5050 ppm</title>
+    <path
+       d="M 399.95 322.59 L 342.91 240.80 A 169.72 169.72 0 0 1 351.52 235.17 L 403.51 320.27 A 70.00 70.00 0 0 0 399.95 322.59 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path401" />
+    <path
+       d="M 342.91 240.80 L 334.36 228.54 A 184.66 184.66 0 0 1 343.73 222.42 L 351.52 235.17 A 169.72 169.72 0 0 0 342.91 240.80 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path402" />
+    <path
+       d="M 334.36 228.54 L 307.81 190.48 A 231.07 231.07 0 0 1 319.54 182.82 L 343.73 222.42 A 184.66 184.66 0 0 0 334.36 228.54 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path403" />
+    <path
+       d="M 307.81 190.48 L 301.43 181.33 A 242.22 242.22 0 0 1 313.72 173.30 L 319.54 182.82 A 231.07 231.07 0 0 0 307.81 190.48 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path404" />
+    <path
+       d="M 301.43 181.33 L 278.96 149.11 A 281.50 281.50 0 0 1 293.25 139.78 L 313.72 173.30 A 242.22 242.22 0 0 0 301.43 181.33 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path405" />
+  </g>
+  <text
+     x="282.2"
+     y="138.5"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(56.8 282.2 138.5)"
+     id="text405">192</text>
+  <g
+     class="bar"
+     id="g410">
+    <title
+       id="title405">Plot 197 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 30.4%  pH 6.00  N 43.8 ppm  Ca 5290 ppm</title>
+    <path
+       d="M 404.10 319.91 L 366.24 256.54 A 143.81 143.81 0 0 1 373.86 252.30 L 407.81 317.84 A 70.00 70.00 0 0 0 404.10 319.91 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path406" />
+    <path
+       d="M 366.24 256.54 L 349.17 227.97 A 177.10 177.10 0 0 1 358.55 222.75 L 373.86 252.30 A 143.81 143.81 0 0 0 366.24 256.54 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path407" />
+    <path
+       d="M 349.17 227.97 L 319.92 179.02 A 234.12 234.12 0 0 1 332.32 172.11 L 358.55 222.75 A 177.10 177.10 0 0 0 349.17 227.97 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path408" />
+    <path
+       d="M 319.92 179.02 L 309.52 161.61 A 254.40 254.40 0 0 1 322.99 154.10 L 332.32 172.11 A 234.12 234.12 0 0 0 319.92 179.02 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path409" />
+    <path
+       d="M 309.52 161.61 L 295.62 138.34 A 281.50 281.50 0 0 1 310.53 130.04 L 322.99 154.10 A 254.40 254.40 0 0 0 309.52 161.61 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path410" />
+  </g>
+  <text
+     x="299.6"
+     y="128.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(60.9 299.6 128.0)"
+     id="text410">197</text>
+  <g
+     class="bar"
+     id="g415">
+    <title
+       id="title410">Plot 202 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 34.9%  pH 7.81  N 25.4 ppm  Ca 7540 ppm</title>
+    <path
+       d="M 408.42 317.53 L 377.32 256.01 A 138.93 138.93 0 0 1 384.95 252.44 L 412.26 315.73 A 70.00 70.00 0 0 0 408.42 317.53 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path411" />
+    <path
+       d="M 377.32 256.01 L 366.20 234.01 A 163.58 163.58 0 0 1 375.18 229.81 L 384.95 252.44 A 138.93 138.93 0 0 0 377.32 256.01 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path412" />
+    <path
+       d="M 366.20 234.01 L 325.99 154.47 A 252.71 252.71 0 0 1 339.87 147.97 L 375.18 229.81 A 163.58 163.58 0 0 0 366.20 234.01 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path413" />
+    <path
+       d="M 325.99 154.47 L 322.17 146.90 A 261.19 261.19 0 0 1 336.51 140.19 L 339.87 147.97 A 252.71 252.71 0 0 0 325.99 154.47 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path414" />
+    <path
+       d="M 322.17 146.90 L 313.00 128.77 A 281.50 281.50 0 0 1 328.46 121.54 L 336.51 140.19 A 261.19 261.19 0 0 0 322.17 146.90 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path415" />
+  </g>
+  <text
+     x="317.7"
+     y="118.7"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(64.9 317.7 118.7)"
+     id="text415">202</text>
+  <g
+     class="bar"
+     id="g420">
+    <title
+       id="title415">Plot 214 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 41.1%  pH 5.36  N 41.5 ppm  Ca 4120 ppm</title>
+    <path
+       d="M 412.90 315.46 L 377.41 230.95 A 161.66 161.66 0 0 1 386.56 227.43 L 416.86 313.94 A 70.00 70.00 0 0 0 412.90 315.46 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path416" />
+    <path
+       d="M 377.41 230.95 L 367.15 206.51 A 188.16 188.16 0 0 1 377.80 202.42 L 386.56 227.43 A 161.66 161.66 0 0 0 377.41 230.95 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path417" />
+    <path
+       d="M 367.15 206.51 L 356.19 180.42 A 216.46 216.46 0 0 1 368.44 175.71 L 377.80 202.42 A 188.16 188.16 0 0 0 367.15 206.51 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path418" />
+    <path
+       d="M 356.19 180.42 L 348.30 161.62 A 236.85 236.85 0 0 1 361.70 156.47 L 368.44 175.71 A 216.46 216.46 0 0 0 356.19 180.42 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path419" />
+    <path
+       d="M 348.30 161.62 L 331.02 120.45 A 281.50 281.50 0 0 1 346.94 114.33 L 361.70 156.47 A 236.85 236.85 0 0 0 348.30 161.62 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path420" />
+  </g>
+  <text
+     x="336.4"
+     y="110.7"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(69.0 336.4 110.7)"
+     id="text420">214</text>
+  <g
+     class="bar"
+     id="g425">
+    <title
+       id="title420">Plot 215 – Anthropogenically disturbed
+Disturbance score 9/10  intensity 6/7
+Organic matter 16.0%  pH 5.16  N 19.0 ppm  Ca 2400 ppm</title>
+    <path
+       d="M 417.51 313.71 L 399.07 259.36 A 127.40 127.40 0 0 1 406.46 257.10 L 421.57 312.47 A 70.00 70.00 0 0 0 417.51 313.71 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path421" />
+    <path
+       d="M 399.07 259.36 L 387.47 225.16 A 163.50 163.50 0 0 1 396.95 222.27 L 406.46 257.10 A 127.40 127.40 0 0 0 399.07 259.36 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path422" />
+    <path
+       d="M 387.47 225.16 L 374.96 188.27 A 202.46 202.46 0 0 1 386.70 184.69 L 396.95 222.27 A 163.50 163.50 0 0 0 387.47 225.16 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path423" />
+    <path
+       d="M 374.96 188.27 L 357.74 137.50 A 256.07 256.07 0 0 1 372.58 132.96 L 386.70 184.69 A 202.46 202.46 0 0 0 374.96 188.27 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path424" />
+    <path
+       d="M 357.74 137.50 L 349.57 113.42 A 281.50 281.50 0 0 1 365.89 108.43 L 372.58 132.96 A 256.07 256.07 0 0 0 357.74 137.50 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path425" />
+  </g>
+  <text
+     x="355.6"
+     y="104.1"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(73.0 355.6 104.1)"
+     id="text425">215</text>
+  <g
+     class="bar"
+     id="g430">
+    <title
+       id="title425">Plot 78 – Anthropogenically disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 24.7%  pH 6.68  N 32.3 ppm  Ca 6880 ppm</title>
+    <path
+       d="M 422.24 312.29 L 401.83 234.48 A 150.44 150.44 0 0 1 410.71 232.44 L 426.37 311.34 A 70.00 70.00 0 0 0 422.24 312.29 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path426" />
+    <path
+       d="M 401.83 234.48 L 393.65 203.32 A 182.66 182.66 0 0 1 404.44 200.84 L 410.71 232.44 A 150.44 150.44 0 0 0 401.83 234.48 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path427" />
+    <path
+       d="M 393.65 203.32 L 374.48 130.25 A 258.20 258.20 0 0 1 389.73 126.74 L 404.44 200.84 A 182.66 182.66 0 0 0 393.65 203.32 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path428" />
+    <path
+       d="M 374.48 130.25 L 369.85 112.60 A 276.45 276.45 0 0 1 386.18 108.84 L 389.73 126.74 A 258.20 258.20 0 0 0 374.48 130.25 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path429" />
+    <path
+       d="M 369.85 112.60 L 362.61 84.98 A 305.00 305.00 0 0 1 380.62 80.84 L 386.18 108.84 A 276.45 276.45 0 0 0 369.85 112.60 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path430" />
+  </g>
+  <text
+     x="370.0"
+     y="76.0"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(77.0 370.0 76.0)"
+     id="text430">78</text>
+  <g
+     class="bar"
+     id="g435">
+    <title
+       id="title430">Plot 195 – Anthropogenically disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 3.0%  pH 7.65  N 10.5 ppm  Ca 4270 ppm</title>
+    <path
+       d="M 427.05 311.21 L 425.32 302.02 A 79.35 79.35 0 0 1 430.07 301.28 L 431.24 310.55 A 70.00 70.00 0 0 0 427.05 311.21 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path431" />
+    <path
+       d="M 425.32 302.02 L 418.95 268.18 A 113.78 113.78 0 0 1 425.77 267.11 L 430.07 301.28 A 79.35 79.35 0 0 0 425.32 302.02 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path432" />
+    <path
+       d="M 418.95 268.18 L 402.64 181.54 A 201.94 201.94 0 0 1 414.74 179.64 L 425.77 267.11 A 113.78 113.78 0 0 0 418.95 268.18 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path433" />
+    <path
+       d="M 402.64 181.54 L 395.44 143.28 A 240.88 240.88 0 0 1 409.87 141.01 L 414.74 179.64 A 201.94 201.94 0 0 0 402.64 181.54 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path434" />
+    <path
+       d="M 395.44 143.28 L 383.58 80.26 A 305.00 305.00 0 0 1 401.84 77.40 L 409.87 141.01 A 240.88 240.88 0 0 0 395.44 143.28 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path435" />
+  </g>
+  <text
+     x="391.6"
+     y="71.8"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(81.1 391.6 71.8)"
+     id="text435">195</text>
+  <g
+     class="bar"
+     id="g440">
+    <title
+       id="title435">Plot 200 – Anthropogenically disturbed
+Disturbance score 10/10  intensity 7/7
+Organic matter 6.7%  pH 7.92  N 16.1 ppm  Ca 3580 ppm</title>
+    <path
+       d="M 431.93 310.47 L 430.45 297.75 A 82.80 82.80 0 0 1 435.45 297.32 L 436.16 310.11 A 70.00 70.00 0 0 0 431.93 310.47 Z"
+       fill="#3d7a4f"
+       stroke="white"
+       stroke-width="0.3"
+       id="path436" />
+    <path
+       d="M 430.45 297.75 L 425.77 257.37 A 123.45 123.45 0 0 1 433.22 256.74 L 435.45 297.32 A 82.80 82.80 0 0 0 430.45 297.75 Z"
+       fill="#4da8c4"
+       stroke="white"
+       stroke-width="0.3"
+       id="path437" />
+    <path
+       d="M 425.77 257.37 L 416.47 177.32 A 204.04 204.04 0 0 1 428.80 176.27 L 433.22 256.74 A 123.45 123.45 0 0 0 425.77 257.37 Z"
+       fill="#e0a535"
+       stroke="white"
+       stroke-width="0.3"
+       id="path438" />
+    <path
+       d="M 416.47 177.32 L 411.43 133.90 A 247.75 247.75 0 0 1 426.40 132.62 L 428.80 176.27 A 204.04 204.04 0 0 0 416.47 177.32 Z"
+       fill="#cc5c5c"
+       stroke="white"
+       stroke-width="0.3"
+       id="path439" />
+    <path
+       d="M 411.43 133.90 L 404.83 77.03 A 305.00 305.00 0 0 1 423.25 75.46 L 426.40 132.62 A 247.75 247.75 0 0 0 411.43 133.90 Z"
+       fill="#8265a7"
+       stroke="white"
+       stroke-width="0.3"
+       id="path440" />
+  </g>
+  <text
+     x="413.4"
+     y="69.1"
+     font-size="5.5"
+     fill="#999"
+     text-anchor="end"
+     dominant-baseline="central"
+     transform="rotate(85.1 413.4 69.1)"
+     id="text440">200</text>
+  <rect
+     x="30"
+     y="753"
+     width="10"
+     height="10"
+     fill="#3d7a4f"
+     id="rect440" />
+  <text
+     x="44"
+     y="762"
+     font-size="8"
+     fill="#444"
+     id="text441">PC1  Organic/water (44.2%)</text>
+  <rect
+     x="185"
+     y="753"
+     width="10"
+     height="10"
+     fill="#4da8c4"
+     id="rect441" />
+  <text
+     x="199"
+     y="762"
+     font-size="8"
+     fill="#444"
+     id="text442">PC2  Nitrogen (18.1%)</text>
+  <rect
+     x="340"
+     y="753"
+     width="10"
+     height="10"
+     fill="#e0a535"
+     id="rect442" />
+  <text
+     x="354"
+     y="762"
+     font-size="8"
+     fill="#444"
+     id="text443">PC3  Alkaline min. (10.9%)</text>
+  <rect
+     x="495"
+     y="753"
+     width="10"
+     height="10"
+     fill="#cc5c5c"
+     id="rect443" />
+  <text
+     x="509"
+     y="762"
+     font-size="8"
+     fill="#444"
+     id="text444">PC4  P + K (8.5%)</text>
+  <rect
+     x="650"
+     y="753"
+     width="10"
+     height="10"
+     fill="#8265a7"
+     id="rect444" />
+  <text
+     x="664"
+     y="762"
+     font-size="8"
+     fill="#444"
+     id="text445">PC5  Carbonates (5.3%)</text>
+  <metadata
+     id="metadata445">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Lucas Vlasblom</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
