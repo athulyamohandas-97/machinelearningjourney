@@ -1,0 +1,2398 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2026-05-26">
+    <creator>Gephi 0.11.2</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="type" type="string"/>
+      <attribute id="x_coordinate" title="x_coordinate" type="integer"/>
+      <attribute id="importance" title="importance" type="integer"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="original_action" title="original_action" type="string"/>
+      <attribute id="zone" title="zone" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="Michael Wolff" label="Michael Wolff">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="33"/>
+        </attvalues>
+        <viz:size value="12.7518425"/>
+        <viz:position x="-359.0147" y="108.32098"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="19" label="New York">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="297"/>
+        </attvalues>
+        <viz:size value="38.69779"/>
+        <viz:position x="-249.01944" y="22.12062"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Jeffrey Epstein" label="Jeffrey Epstein">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="279"/>
+        </attvalues>
+        <viz:size value="36.92875"/>
+        <viz:position x="-8.566071" y="-1.5324631"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Los Angeles" label="Los Angeles">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="22"/>
+        </attvalues>
+        <viz:size value="11.670762"/>
+        <viz:position x="-277.5291" y="-252.19553"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Larry Visoski" label="Larry Visoski">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="46"/>
+        </attvalues>
+        <viz:size value="14.029484"/>
+        <viz:position x="-218.3389" y="304.88214"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Europe" label="Europe">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="7"/>
+        </attvalues>
+        <viz:size value="10.19656"/>
+        <viz:position x="373.14664" y="-37.236893"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Manhattan" label="Manhattan">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="320.59042" y="194.54248"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Ghislaine Maxwell" label="Ghislaine Maxwell">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="84"/>
+        </attvalues>
+        <viz:size value="17.764128"/>
+        <viz:position x="194.31718" y="-157.29219"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Elisa New" label="Elisa New">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="27"/>
+        </attvalues>
+        <viz:size value="12.162163"/>
+        <viz:position x="-364.6109" y="-87.65776"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="7" label="federal prosecutors">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="29"/>
+        </attvalues>
+        <viz:size value="12.358723"/>
+        <viz:position x="440.85004" y="-235.90515"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="21" label="Palm Beach Courthouse">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="113"/>
+        </attvalues>
+        <viz:size value="20.61425"/>
+        <viz:position x="-421.71045" y="268.62668"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Paris" label="Paris">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="24"/>
+        </attvalues>
+        <viz:size value="11.867322"/>
+        <viz:position x="-344.62875" y="-147.83784"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Donald Trump" label="Donald Trump">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="102"/>
+        </attvalues>
+        <viz:size value="19.533169"/>
+        <viz:position x="39.522346" y="-246.8562"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="R. Alexander Acosta" label="R. Alexander Acosta">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="35"/>
+        </attvalues>
+        <viz:size value="12.948403"/>
+        <viz:position x="-333.70218" y="171.07854"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Haley Robson" label="Haley Robson">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="11"/>
+        </attvalues>
+        <viz:size value="10.589681"/>
+        <viz:position x="190.50381" y="161.88977"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Marrakech" label="Marrakech">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="305.98154" y="216.79555"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Rome" label="Rome">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="7"/>
+        </attvalues>
+        <viz:size value="10.19656"/>
+        <viz:position x="374.8554" y="-10.412397"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Coney Island" label="Coney Island">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="15"/>
+        </attvalues>
+        <viz:size value="10.982801"/>
+        <viz:position x="77.30987" y="-366.9444"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Stockade" label="Stockade">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="17"/>
+        </attvalues>
+        <viz:size value="11.179361"/>
+        <viz:position x="-39.444054" y="-372.9198"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="38" label="Monterey">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="15"/>
+        </attvalues>
+        <viz:size value="10.982801"/>
+        <viz:position x="105.38693" y="-359.88693"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="France" label="France">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="141.42764" y="347.30853"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Sweden" label="Sweden">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="289.83075" y="237.95616"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Ohio" label="Ohio">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="7"/>
+        </attvalues>
+        <viz:size value="10.19656"/>
+        <viz:position x="374.63834" y="16.465593"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="5" label="Epstein residence, Palm Beach">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="412"/>
+        </attvalues>
+        <viz:size value="50.0"/>
+        <viz:position x="-80.14234" y="236.80626"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Bear Stearns" label="Bear Stearns">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="19"/>
+        </attvalues>
+        <viz:size value="11.375921"/>
+        <viz:position x="-154.49248" y="-341.69736"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="18" label="New Mexico">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="15"/>
+        </attvalues>
+        <viz:size value="10.982801"/>
+        <viz:position x="132.83589" y="-350.6845"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Barbro C. Ehnbom" label="Barbro C. Ehnbom">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="28"/>
+        </attvalues>
+        <viz:size value="12.260443"/>
+        <viz:position x="242.586" y="60.432068"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Alan M. Dershowitz" label="Alan M. Dershowitz">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="111.002686" y="224.00537"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Prince Andrew, Duke of York" label="Prince Andrew, Duke of York">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="28"/>
+        </attvalues>
+        <viz:size value="12.260443"/>
+        <viz:position x="229.85582" y="98.317345"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Bill Clinton" label="Bill Clinton">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="80.59788" y="236.65161"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Africa" label="Africa">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="41"/>
+        </attvalues>
+        <viz:size value="13.538084"/>
+        <viz:position x="-296.4155" y="229.70166"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Sarah Ferguson, Duchess of York" label="Sarah Ferguson, Duchess of York">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="8"/>
+        </attvalues>
+        <viz:size value="10.29484"/>
+        <viz:position x="322.903" y="-190.67943"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="11" label="Jane Doe">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="98"/>
+        </attvalues>
+        <viz:size value="19.140049"/>
+        <viz:position x="99.91833" y="-229.16441"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="28" label="underage girls">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="49"/>
+        </attvalues>
+        <viz:size value="14.324325"/>
+        <viz:position x="-271.1204" y="-420.11157"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="42" label="Santa Fe">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="24"/>
+        </attvalues>
+        <viz:size value="11.867322"/>
+        <viz:position x="-331.10855" y="-176.0458"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="United States" label="United States">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="272.2195" y="257.9177"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Richard Kahn" label="Richard Kahn">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="116"/>
+        </attvalues>
+        <viz:size value="20.909092"/>
+        <viz:position x="-139.58615" y="-208.5678"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Stockholm" label="Stockholm">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="16"/>
+        </attvalues>
+        <viz:size value="11.081081"/>
+        <viz:position x="48.64357" y="-371.8317"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="8" label="Florida">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="112"/>
+        </attvalues>
+        <viz:size value="20.51597"/>
+        <viz:position x="-52.884995" y="-248.68456"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="20" label="Palm Beach County">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="353"/>
+        </attvalues>
+        <viz:size value="44.201473"/>
+        <viz:position x="-202.05849" y="147.21538"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Vicky Ward" label="Vicky Ward">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="22"/>
+        </attvalues>
+        <viz:size value="11.670762"/>
+        <viz:position x="-255.92397" y="-274.09473"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="3" label="Detective Joseph Recarey">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="21"/>
+        </attvalues>
+        <viz:size value="11.572481"/>
+        <viz:position x="245.76953" y="435.42776"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="40" label="Palm Beach Jail">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="54"/>
+        </attvalues>
+        <viz:size value="14.815725"/>
+        <viz:position x="-431.59045" y="-252.44737"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="House Oversight Committee hearing" label="House Oversight Committee hearing">
+        <attvalues>
+          <attvalue for="type" value="Event"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="7"/>
+        </attvalues>
+        <viz:size value="10.19656"/>
+        <viz:position x="81.589806" y="493.2982"/>
+        <viz:color r="255" g="112" b="69"/>
+      </node>
+      <node id="33" label="Washington">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="51"/>
+        </attvalues>
+        <viz:size value="14.5208845"/>
+        <viz:position x="240.51248" y="-68.21839"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Ehud Barak" label="Ehud Barak">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="16.304945" y="249.46773"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="25" label="Teterboro ">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="17"/>
+        </attvalues>
+        <viz:size value="11.179361"/>
+        <viz:position x="-10.040037" y="-374.86557"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Australia" label="Australia">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="7"/>
+        </attvalues>
+        <viz:size value="10.19656"/>
+        <viz:position x="372.49652" y="43.25899"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Brett D. Jaffe" label="Brett D. Jaffe">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="116.678955" y="356.38605"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="St. Thomas" label="St. Thomas">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="26"/>
+        </attvalues>
+        <viz:size value="12.063882"/>
+        <viz:position x="-355.83286" y="-118.35535"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="31" label="U.S. Virgin Islands">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="44"/>
+        </attvalues>
+        <viz:size value="13.832924"/>
+        <viz:position x="-247.10802" y="282.06848"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Steve Bannon" label="Steve Bannon">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="22"/>
+        </attvalues>
+        <viz:size value="11.670762"/>
+        <viz:position x="-232.59654" y="-294.14938"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Graydon Carter" label="Graydon Carter">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="91.35369" y="363.70248"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="41" label="Jeffrey Epstein's private island">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="37"/>
+        </attvalues>
+        <viz:size value="13.144963"/>
+        <viz:position x="249.23334" y="19.563816"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="MIT" label="MIT">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="7"/>
+        </attvalues>
+        <viz:size value="10.19656"/>
+        <viz:position x="368.44098" y="69.83014"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="Southern District of New York" label="Southern District of New York">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="25"/>
+        </attvalues>
+        <viz:size value="11.965602"/>
+        <viz:position x="478.1068" y="146.33485"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="Lisa New" label="Lisa New">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="21"/>
+        </attvalues>
+        <viz:size value="11.572481"/>
+        <viz:position x="-181.52669" y="-328.13574"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="9" label="Harvard University ">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="13"/>
+        </attvalues>
+        <viz:size value="10.786241"/>
+        <viz:position x="184.97443" y="-326.20462"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="California" label="California">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="8"/>
+        </attvalues>
+        <viz:size value="10.29484"/>
+        <viz:position x="335.84744" y="-166.82773"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Jessica Cadwell" label="Jessica Cadwell">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="8"/>
+        </attvalues>
+        <viz:size value="10.29484"/>
+        <viz:position x="347.03302" y="-142.10234"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Sarah Ransome" label="Sarah Ransome">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="9"/>
+        </attvalues>
+        <viz:size value="10.393121"/>
+        <viz:position x="308.19373" y="-213.639"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Cambridge" label="Cambridge">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="23"/>
+        </attvalues>
+        <viz:size value="11.769042"/>
+        <viz:position x="-297.34558" y="-228.49641"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="Etienne Binant" label="Etienne Binant">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="10"/>
+        </attvalues>
+        <viz:size value="10.491401"/>
+        <viz:position x="291.69217" y="-235.67068"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Mar-a-Lago Club, Inc." label="Mar-a-Lago Club, Inc.">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="10"/>
+        </attvalues>
+        <viz:size value="10.491401"/>
+        <viz:position x="166.49962" y="186.48828"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="6" label="FBI">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="47"/>
+        </attvalues>
+        <viz:size value="14.127764"/>
+        <viz:position x="-57.734055" y="-496.6556"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="Police Chief Michael Reiter" label="Police Chief Michael Reiter">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="29"/>
+        </attvalues>
+        <viz:size value="12.358723"/>
+        <viz:position x="497.79248" y="-46.932243"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Denver, CO" label="Denver">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="253.23653" y="276.5796"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Lesley Groff" label="Lesley Groff">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="34"/>
+        </attvalues>
+        <viz:size value="12.850122"/>
+        <viz:position x="-347.82538" y="140.15172"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="West Palm Beach office" label="West Palm Beach office">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="232.97746" y="293.84775"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="43" label="United Kingdom">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="70"/>
+        </attvalues>
+        <viz:size value="16.388206"/>
+        <viz:position x="-149.13168" y="344.07083"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Sarah Kellen" label="Sarah Kellen">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="24"/>
+        </attvalues>
+        <viz:size value="11.867322"/>
+        <viz:position x="-315.2845" y="-203.02882"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Rockefeller University" label="Rockefeller University">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="7"/>
+        </attvalues>
+        <viz:size value="10.19656"/>
+        <viz:position x="362.49252" y="96.042534"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="23" label="Palm Beach Police Station">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="116"/>
+        </attvalues>
+        <viz:size value="20.909092"/>
+        <viz:position x="-164.91318" y="472.0208"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="32" label="Virginia Roberts Giuffre">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="89"/>
+        </attvalues>
+        <viz:size value="18.255527"/>
+        <viz:position x="152.33476" y="-198.22745"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Moscow" label="Moscow">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="65.57701" y="369.22168"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Martin G. Weinberg" label="Martin G. Weinberg">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="15"/>
+        </attvalues>
+        <viz:size value="10.982801"/>
+        <viz:position x="159.49313" y="-339.39203"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="1" label="Bradley Edwards">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="70"/>
+        </attvalues>
+        <viz:size value="16.388206"/>
+        <viz:position x="-499.8089" y="-13.822197"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Ace Greenberg" label="Ace Greenberg">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="7"/>
+        </attvalues>
+        <viz:size value="10.19656"/>
+        <viz:position x="354.68173" y="121.7615"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="16" label="Little St James Island">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="80"/>
+        </attvalues>
+        <viz:size value="17.371006"/>
+        <viz:position x="-107.34375" y="359.3081"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Lawrence M. Krauss" label="Lawrence M. Krauss">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="33"/>
+        </attvalues>
+        <viz:size value="12.7518425"/>
+        <viz:position x="-367.27158" y="75.74024"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Arizona State University" label="Arizona State University">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="8"/>
+        </attvalues>
+        <viz:size value="10.29484"/>
+        <viz:position x="356.40118" y="-116.63277"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="South Africa" label="South Africa">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="12"/>
+        </attvalues>
+        <viz:size value="10.687961"/>
+        <viz:position x="232.03717" y="-294.59082"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="39" label="Epstein's private plane">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="54"/>
+        </attvalues>
+        <viz:size value="14.815725"/>
+        <viz:position x="223.13528" y="-112.74149"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Ibiza" label="Ibiza">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="7"/>
+        </attvalues>
+        <viz:size value="10.19656"/>
+        <viz:position x="345.04874" y="146.8549"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Tucson" label="Tucson">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="39.476273" y="372.91638"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Steven Pfeiffer" label="Steven Pfeiffer">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="19"/>
+        </attvalues>
+        <viz:size value="11.375921"/>
+        <viz:position x="-126.69721" y="-352.94876"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Brazil" label="Brazil">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="211.54442" y="309.63522"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Kathy Ruemmler" label="Kathy Ruemmler">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="39"/>
+        </attvalues>
+        <viz:size value="13.341523"/>
+        <viz:position x="248.8838" y="-23.597721"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="35" label="Unknown person A ">
+        <attvalues>
+          <attvalue for="type" value="Redacted Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="235"/>
+        </attvalues>
+        <viz:size value="32.604424"/>
+        <viz:position x="-42.888954" y="372.5393"/>
+        <viz:color r="35" g="150" b="111"/>
+      </node>
+      <node id="Geneva" label="Geneva">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="13"/>
+        </attvalues>
+        <viz:size value="10.786241"/>
+        <viz:position x="209.15788" y="-311.2523"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Boris Nikolic" label="Boris Nikolic">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="19"/>
+        </attvalues>
+        <viz:size value="11.375921"/>
+        <viz:position x="-98.09183" y="-361.94336"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Vienna" label="Vienna">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="32"/>
+        </attvalues>
+        <viz:size value="12.653563"/>
+        <viz:position x="-374.88837" y="9.149581"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Neal Kassell" label="Neal Kassell">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="8"/>
+        </attvalues>
+        <viz:size value="10.29484"/>
+        <viz:position x="363.90283" y="-90.55237"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="37" label="Asia">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="42"/>
+        </attvalues>
+        <viz:size value="13.636364"/>
+        <viz:position x="-273.15338" y="256.92844"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Israel" label="Israel">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="189.04538" y="323.8624"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Germany" label="Germany">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="7"/>
+        </attvalues>
+        <viz:size value="10.19656"/>
+        <viz:position x="333.64304" y="171.19383"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Trump Hotel" label="Trump Hotel">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="48.794697" y="245.19193"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Barry E. Krischer" label="Barry E. Krischer">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="24"/>
+        </attvalues>
+        <viz:size value="11.867322"/>
+        <viz:position x="388.74277" y="314.4504"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Daniel Siad" label="Daniel Siad">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="8"/>
+        </attvalues>
+        <viz:size value="10.29484"/>
+        <viz:position x="139.74763" y="207.29352"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Russia" label="Russia">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="6"/>
+        </attvalues>
+        <viz:size value="10.09828"/>
+        <viz:position x="165.59372" y="336.4576"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="15" label="Leslie H. Wexner">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="29"/>
+        </attvalues>
+        <viz:size value="12.358723"/>
+        <viz:position x="-374.2435" y="-23.807644"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Paul Barrett" label="Paul Barrett">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="37"/>
+        </attvalues>
+        <viz:size value="13.144963"/>
+        <viz:position x="-316.62784" y="200.92738"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Strasbourg" label="Strasbourg">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="13.180469" y="374.7683"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Bill Richardson" label="Bill Richardson">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="8"/>
+        </attvalues>
+        <viz:size value="10.29484"/>
+        <viz:position x="369.4987" y="-63.99775"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="Landon Thomas Jr." label="Landon Thomas Jr.">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="22"/>
+        </attvalues>
+        <viz:size value="11.670762"/>
+        <viz:position x="-207.70381" y="-312.2245"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="0" label="Boston">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="12"/>
+        </attvalues>
+        <viz:size value="10.687961"/>
+        <viz:position x="253.4992" y="-276.33884"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="Nadia Marcinkova" label="Nadia Marcinkova">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="17"/>
+        </attvalues>
+        <viz:size value="11.179361"/>
+        <viz:position x="19.42598" y="-374.4965"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="44" label="Kenneth W. Starr">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="19"/>
+        </attvalues>
+        <viz:size value="11.375921"/>
+        <viz:position x="-68.85924" y="-368.62366"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="4" label="Epstein residence, NY">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="227"/>
+        </attvalues>
+        <viz:size value="31.818182"/>
+        <viz:position x="-212.78981" y="-121.75827"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="36" label="Gulf Basin">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="56"/>
+        </attvalues>
+        <viz:size value="15.012285"/>
+        <viz:position x="-186.12848" y="325.54752"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="46" label="Felony Charges">
+        <attvalues>
+          <attvalue for="type" value="Event"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="47"/>
+        </attvalues>
+        <viz:size value="10.393121"/>
+        <viz:position x="137.43475" y="-480.74078"/>
+        <viz:color r="255" g="112" b="69"/>
+      </node>
+      <node id="34" label="Caribbean island">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="33"/>
+        </attvalues>
+        <viz:size value="12.7518425"/>
+        <viz:position x="-372.57806" y="42.55106"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="27" label="U.S. Attorney's Office">
+        <attvalues>
+          <attvalue for="type" value="Organisation"/>
+          <attvalue for="x_coordinate" value="3"/>
+          <attvalue for="importance" value="41"/>
+        </attvalues>
+        <viz:size value="13.538084"/>
+        <viz:position x="307.80307" y="-394.02698"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
+      <node id="14" label="Lawrence Summers">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="11"/>
+        </attvalues>
+        <viz:size value="10.589681"/>
+        <viz:position x="273.4417" y="-256.62155"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+      <node id="17" label="Mar-a-Lago, Palm Beach">
+        <attvalues>
+          <attvalue for="type" value="Location"/>
+          <attvalue for="x_coordinate" value="1"/>
+          <attvalue for="importance" value="21"/>
+        </attvalues>
+        <viz:size value="11.572481"/>
+        <viz:position x="211.84923" y="132.73999"/>
+        <viz:color r="140" g="185" b="0"/>
+      </node>
+      <node id="26" label="Thorbjrn Jagland">
+        <attvalues>
+          <attvalue for="type" value="Person"/>
+          <attvalue for="x_coordinate" value="2"/>
+          <attvalue for="importance" value="28"/>
+        </attvalues>
+        <viz:size value="12.260443"/>
+        <viz:position x="-370.78473" y="-56.06853"/>
+        <viz:color r="217" g="125" b="216"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="3236" source="Ehud Barak" target="5" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="had sexual encounters with victims arranged by"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3251" source="Jeffrey Epstein" target="8" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="negotiated non-prosecution agreement with"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3238" source="Alan M. Dershowitz" target="5" type="directed" weight="21.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="stayed as guest at residence of"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="2812" source="Jeffrey Epstein" target="Los Angeles" type="directed" weight="21.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="groomed and exploited"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3310" source="Police Chief Michael Reiter" target="20" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="recalled"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3255" source="Ghislaine Maxwell" target="8" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="holidayed with"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="2815" source="Jeffrey Epstein" target="Europe" type="directed" weight="25.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="2816" source="Jeffrey Epstein" target="Manhattan" type="directed" weight="72.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="attended charity event with"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3227" source="Donald Trump" target="5" type="directed" weight="17.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="visited home of"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3267" source="Prince Andrew, Duke of York" target="16" type="directed" weight="9.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="allegedly directed staging of orgy for"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3340" source="28" target="20" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="documented in police investigation as sexually abusing"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3290" source="Richard Kahn" target="19" type="directed" weight="17.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="shared article about potential iPhone tariff impact with"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="2823" source="Jeffrey Epstein" target="Paris" type="directed" weight="161.0">
+        <viz:color r="249" g="119" b="67"/>
+        <attvalues>
+          <attvalue for="original_action" value="traveled with"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3291" source="Barbro C. Ehnbom" target="19" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="invited to fundraiser"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3372" source="Jeffrey Epstein" target="36" type="directed" weight="10.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="indicated travel plans to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3206" source="Martin G. Weinberg" target="0" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="forwarded email to"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3292" source="Bear Stearns" target="19" type="directed" weight="9.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="resigned from"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3293" source="Prince Andrew, Duke of York" target="19" type="directed" weight="29.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="strolled with"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="2834" source="Jeffrey Epstein" target="Marrakech" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3261" source="11" target="5" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="involved in sexual trafficking and exploitation of"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="2839" source="Jeffrey Epstein" target="Rome" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="discussed possible travel destinations"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="2842" source="Jeffrey Epstein" target="Coney Island" type="directed" weight="15.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="was born in"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="2843" source="Jeffrey Epstein" target="Stockade" type="directed" weight="19.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="visited"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3375" source="Jeffrey Epstein" target="38" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="invited to fly on private jet"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="2847" source="Jeffrey Epstein" target="France" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent message to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3354" source="32" target="20" type="directed" weight="28.0">
+        <viz:color r="40" g="179" b="106"/>
+        <attvalues>
+          <attvalue for="original_action" value="recruited and groomed"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3254" source="R. Alexander Acosta" target="8" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="served as prosecutor for"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3374" source="32" target="37" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="allegedly sent"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="2853" source="Jeffrey Epstein" target="Sweden" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3294" source="Paul Barrett" target="19" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="2856" source="Jeffrey Epstein" target="Ohio" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="worked for"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3216" source="Jeffrey Epstein" target="5" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="directed upstairs"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3273" source="Jeffrey Epstein" target="18" type="directed" weight="23.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="took photo at"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3295" source="Neal Kassell" target="19" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="responded positively to introduction of"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="2868" source="Bill Clinton" target="Africa" type="directed" weight="11.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="provided private jet to"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3260" source="11" target="Paris" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="clarified travel plans with"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3325" source="1" target="21" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sued"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3383" source="Jeffrey Epstein" target="42" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="took photograph of"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="2880" source="Ghislaine Maxwell" target="United States" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="attended"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="2882" source="Jeffrey Epstein" target="Stockholm" type="directed" weight="16.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="suggested travel to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3339" source="27" target="8" type="directed" weight="10.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="entered into non-prosecution agreement with associates in"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3355" source="32" target="19" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="trained and instructed"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3306" source="6" target="20" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="opened investigation"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3218" source="Ghislaine Maxwell" target="5" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="directed to mansion visit"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3278" source="Steven Pfeiffer" target="19" type="directed" weight="9.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="invited"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3314" source="Donald Trump" target="20" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="purchased property out from under"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3212" source="Jeffrey Epstein" target="4" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="went_to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3378" source="40" target="20" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="began serving prison sentence of 18 months at"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="2896" source="Jeffrey Epstein" target="House Oversight Committee hearing" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="asked about"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3281" source="Landon Thomas Jr." target="19" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="proposed meeting with"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3266" source="Bill Clinton" target="16" type="directed" weight="14.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="piloted helicopter with"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3316" source="Jeffrey Epstein" target="20" type="directed" weight="338.0">
+        <viz:color r="40" g="179" b="106"/>
+        <attvalues>
+          <attvalue for="original_action" value="recruited and invited to work for"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3333" source="Jeffrey Epstein" target="23" type="directed" weight="14.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="offered to make available for questioning"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3280" source="14" target="19" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email response to"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3324" source="Jeffrey Epstein" target="21" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="issued no-contact order against"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3298" source="Kathy Ruemmler" target="19" type="directed" weight="14.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="2916" source="Jeffrey Epstein" target="Bear Stearns" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="mentored"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3336" source="Jeffrey Epstein" target="25" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3307" source="5" target="20" type="directed" weight="17.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="engaged in sexual abuse of underage girls at"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="2920" source="Ehud Barak" target="Manhattan" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="met with"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="2921" source="Jeffrey Epstein" target="Australia" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="escaped from"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3384" source="32" target="42" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent on trip"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3317" source="Haley Robson" target="20" type="directed" weight="5.0">
+        <viz:color r="40" g="179" b="106"/>
+        <attvalues>
+          <attvalue for="original_action" value="recruited and arranged visits for underage girls to"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3250" source="7" target="5" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="agreed to charges with"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3231" source="Police Chief Michael Reiter" target="5" type="directed" weight="17.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="requested arrest warrant for"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3318" source="Ghislaine Maxwell" target="20" type="directed" weight="23.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="operated sex trafficking organization with"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="2937" source="Jeffrey Epstein" target="St. Thomas" type="directed" weight="24.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="owns residence in"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3300" source="Michael Wolff" target="19" type="directed" weight="9.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="inquired about travel duration and meeting plans with"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3352" source="Jeffrey Epstein" target="31" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="invited to travel to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3393" source="44" target="33" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="referenced close personal association between"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3332" source="23" target="5" type="directed" weight="57.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sought to charge"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="2946" source="Jeffrey Epstein" target="United States" type="directed" weight="76.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="attended"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3319" source="20" target="5" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="registered as sex offender"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="2950" source="Steve Bannon" target="Europe" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3394" source="44" target="19" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="informed about availability of"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3220" source="Bill Richardson" target="5" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="had lunch with"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3389" source="Ghislaine Maxwell" target="43" type="directed" weight="29.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="took photo with"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3268" source="Ghislaine Maxwell" target="16" type="directed" weight="38.0">
+        <viz:color r="249" g="119" b="67"/>
+        <attvalues>
+          <attvalue for="original_action" value="traveled with and directed"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3380" source="Ghislaine Maxwell" target="41" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="claimed knowledge that"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3364" source="35" target="4" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="met with"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3301" source="Rockefeller University" target="19" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="appointed to board of"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3269" source="Ghislaine Maxwell" target="17" type="directed" weight="8.0">
+        <viz:color r="40" g="179" b="106"/>
+        <attvalues>
+          <attvalue for="original_action" value="introduced"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="2961" source="Jeffrey Epstein" target="MIT" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="proposed visit to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3381" source="Bill Clinton" target="41" type="directed" weight="11.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="claimed knowledge that"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3302" source="Lesley Groff" target="19" type="directed" weight="14.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3359" source="Jeffrey Epstein" target="33" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="stated intention to pursue justice against"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="2968" source="Ghislaine Maxwell" target="Manhattan" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="instructed to obtain identification photos for"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3303" source="Brett D. Jaffe" target="19" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="represented"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3245" source="Larry Visoski" target="5" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3257" source="Jeffrey Epstein" target="9" type="directed" weight="30.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="promised recommendation to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3395" source="46" target="Jeffrey Epstein" type="directed">
+        <attvalues>
+          <attvalue for="original_action" value="prosecuted "/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3382" source="Jeffrey Epstein" target="41" type="directed" weight="19.0">
+        <viz:color r="249" g="119" b="67"/>
+        <attvalues>
+          <attvalue for="original_action" value="traveled by helicopter provided by"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="2981" source="Jeffrey Epstein" target="California" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="made telephone inquiries for"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3228" source="Sarah Kellen" target="5" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="would be charged as accomplice"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3356" source="32" target="5" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="participated in sexual abuse of"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="2991" source="Ghislaine Maxwell" target="Southern District of New York" type="directed" weight="17.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="filed civil lawsuit against"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="2992" source="Jeffrey Epstein" target="Cambridge" type="directed" weight="23.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="pledged philanthropic donation to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="2994" source="Etienne Binant" target="Los Angeles" type="directed" weight="9.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="inquired about acquiring art pieces"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3390" source="Sarah Ferguson, Duchess of York" target="43" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="accepted money from"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3370" source="35" target="5" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="requested to remove clothing"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3001" source="Jeffrey Epstein" target="Southern District of New York" type="directed" weight="14.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="made false statements about"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3320" source="Larry Visoski" target="20" type="directed" weight="12.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3276" source="Ghislaine Maxwell" target="19" type="directed" weight="9.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="attended wedding of"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3247" source="6" target="5" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="opened investigation into"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3327" source="Ghislaine Maxwell" target="21" type="directed" weight="10.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="denied statements made by"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3274" source="Jeffrey Epstein" target="19" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="born in"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3305" source="Donald Trump" target="19" type="directed" weight="10.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="said"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3024" source="Jeffrey Epstein" target="Africa" type="directed" weight="41.0">
+        <viz:color r="249" g="119" b="67"/>
+        <attvalues>
+          <attvalue for="original_action" value="traveled with on private plane"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3392" source="Graydon Carter" target="43" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="attended dinner with"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3326" source="21" target="5" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="recommended charges against"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3035" source="Ghislaine Maxwell" target="Denver, CO" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="submitted filing"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3321" source="Jessica Cadwell" target="20" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="inquired about service on"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3038" source="Jeffrey Epstein" target="West Palm Beach office" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="commented on"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3369" source="35" target="19" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3388" source="Jeffrey Epstein" target="43" type="directed" weight="89.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="took photo with"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3379" source="Jeffrey Epstein" target="40" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="serving_sentence"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3270" source="Jeffrey Epstein" target="17" type="directed" weight="5.0">
+        <viz:color r="40" g="179" b="106"/>
+        <attvalues>
+          <attvalue for="original_action" value="introduced"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3396" source="3" target="Jeffrey Epstein" type="directed">
+        <attvalues>
+          <attvalue for="original_action" value="led investigation against"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3054" source="Barbro C. Ehnbom" target="Stockholm" type="directed" weight="15.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="suggested travel to"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3249" source="6" target="United States" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="investigated by"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3397" source="Nadia Marcinkova" target="Jeffrey Epstein" type="undirected">
+        <attvalues>
+          <attvalue for="original_action" value="piloted jets and was associate"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3385" source="35" target="43" type="directed" weight="11.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="gave pep talks to"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3271" source="Donald Trump" target="17" type="directed" weight="17.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="banned"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3223" source="Barry E. Krischer" target="5" type="directed" weight="13.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="issued arrest warrant for"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3224" source="Michael Wolff" target="5" type="directed" weight="9.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3331" source="23" target="20" type="directed" weight="37.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="investigated"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3214" source="Ghislaine Maxwell" target="4" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="made_lewd_jokes_with"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3353" source="32" target="Southern District of New York" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="filed civil lawsuit against"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3077" source="Jeffrey Epstein" target="Moscow" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3252" source="1" target="8" type="directed" weight="11.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="attempted to depose"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3084" source="Ace Greenberg" target="Bear Stearns" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="hired"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3368" source="35" target="Paris" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="offered intelligence to"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3264" source="Jeffrey Epstein" target="16" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="gave interview to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3092" source="Lawrence M. Krauss" target="Arizona State University" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="authored"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3232" source="Sarah Ransome" target="5" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="kept passport and threatened harm to"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3258" source="Elisa New" target="9" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email reply to"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3099" source="Lisa New" target="Cambridge" type="directed" weight="10.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3103" source="Jeffrey Epstein" target="South Africa" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="organized and funded fact-finding mission to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3376" source="Jeffrey Epstein" target="39" type="directed" weight="8.0">
+        <viz:color r="249" g="119" b="67"/>
+        <attvalues>
+          <attvalue for="original_action" value="traveled with"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3377" source="Bill Clinton" target="39" type="directed" weight="8.0">
+        <viz:color r="249" g="119" b="67"/>
+        <attvalues>
+          <attvalue for="original_action" value="traveled with"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3323" source="1" target="20" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="filed lawsuit against"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3225" source="5" target="5" type="directed" weight="15.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="allegedly maintained sex toys and costumes at"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3120" source="Jeffrey Epstein" target="Arizona State University" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="pledged funding to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3124" source="Jeffrey Epstein" target="Ibiza" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to describing business opportunity involving models"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3371" source="35" target="36" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="indicated travel plans to"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3126" source="Jeffrey Epstein" target="Tucson" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="requested meeting with"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3129" source="Lawrence M. Krauss" target="Paris" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent message to"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3361" source="Jeffrey Epstein" target="34" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="owned and operated"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3146" source="Jeffrey Epstein" target="Brazil" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="referred to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3366" source="35" target="20" type="directed" weight="26.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="took extraordinary step with"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3160" source="Jeffrey Epstein" target="Geneva" type="directed" weight="13.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3161" source="Boris Nikolic" target="Vienna" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3162" source="Jeffrey Epstein" target="Vienna" type="directed" weight="32.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3387" source="Prince Andrew, Duke of York" target="43" type="directed" weight="22.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="facilitated introduction between"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3341" source="28" target="5" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sexually abused"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3165" source="Elisa New" target="Cambridge" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Operational"/>
+        </attvalues>
+      </edge>
+      <edge id="3241" source="Haley Robson" target="5" type="directed" weight="5.0">
+        <viz:color r="40" g="179" b="106"/>
+        <attvalues>
+          <attvalue for="original_action" value="recruited girls for"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3338" source="Jeffrey Epstein" target="27" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="reported offer made to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3373" source="Jeffrey Epstein" target="37" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="received and forwarded email from"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3172" source="Jeffrey Epstein" target="Israel" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent message to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3265" source="16" target="16" type="directed" weight="6.0">
+        <viz:color r="249" g="119" b="67"/>
+        <attvalues>
+          <attvalue for="original_action" value="allegedly traveled with victim to"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3174" source="Jeffrey Epstein" target="Germany" type="directed" weight="7.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="reported that associate planned to meet"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3367" source="35" target="21" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="denied statements made by"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3177" source="Jeffrey Epstein" target="Trump Hotel" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3288" source="Vicky Ward" target="19" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="published article about"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3184" source="Daniel Siad" target="Ibiza" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to describing business opportunity involving models"/>
+          <attvalue for="zone" value="Recruitment"/>
+        </attvalues>
+      </edge>
+      <edge id="3186" source="Jeffrey Epstein" target="Russia" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="coordinated travel plans involving"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3263" source="15" target="Manhattan" type="directed" weight="9.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="acquired mansion from"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3309" source="20" target="20" type="directed" weight="9.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="maintained residence for approximately 20 years"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3192" source="Jeffrey Epstein" target="Strasbourg" type="directed" weight="5.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="sent email to"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+      <edge id="3365" source="35" target="8" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="asked about"/>
+          <attvalue for="zone" value="Legal Fall-out"/>
+        </attvalues>
+      </edge>
+      <edge id="3337" source="26" target="Paris" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="offered lodging to"/>
+          <attvalue for="zone" value="Alleged Solicitation"/>
+        </attvalues>
+      </edge>
+      <edge id="3272" source="Mar-a-Lago Club, Inc." target="17" type="directed" weight="8.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="attended reception at"/>
+          <attvalue for="zone" value="Other"/>
+        </attvalues>
+      </edge>
+      <edge id="3205" source="Jeffrey Epstein" target="0" type="directed" weight="6.0">
+        <viz:color r="154" g="150" b="229"/>
+        <attvalues>
+          <attvalue for="original_action" value="agreed to represent"/>
+          <attvalue for="zone" value="Recruitment&#xa;"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
